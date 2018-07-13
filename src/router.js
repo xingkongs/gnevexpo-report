@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Home from './views/Home.vue'
-import About from './views/About.vue'
+import Report from './views/report.vue'
+import Mobile from './views/report_mobile'
 
 Vue.use(Router)
 
@@ -9,13 +9,13 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'home',
-      component: Home
+      name: 'report',
+      component: Report
     },
     {
-      path: '/about',
-      name: 'about',
-      component: About
+      path: '/index_mobile',
+      name: 'mobile',
+      component: Mobile
     }
   ]
 })

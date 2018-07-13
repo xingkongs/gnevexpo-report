@@ -5,13 +5,22 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <link rel="icon" href="<%= BASE_URL %>favicon.ico">
-    <title>gnevexpo-report</title>
+    <title>2018未来汽车展暨未来汽车开发者大会</title>
+    <script>
+           !(function(){
+            let domain = '//www.d1ev.com/special/gnevexpo-report'
+            if(navigator.userAgent.match(/(iPhone|iPod|Android|ios)/i)){
+                window.location.href = domain+'/index.html#/index_mobile';
+            } else {
+                window.location.href = domain+"/index.html#/"
+            }
+          })();
+    </script>
   </head>
   <body>
-    <noscript>
-      <strong>We're sorry but gnevexpo-report doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
-    </noscript>
     <div id="app"></div>
-    <!-- built files will be auto injected -->
+    <div id="footer-analysis-3rd" style="display: none;">
+      <script type="text/javascript" src="//www.d1ev.com/src/assets/1.0.0/analysis.3rd.js?v=2018l"></script>
+    </div>
   </body>
 </html>
