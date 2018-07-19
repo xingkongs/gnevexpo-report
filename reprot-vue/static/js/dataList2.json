@@ -1,0 +1,4430 @@
+{
+  "success": true,
+  "msg": "查询成功！",
+  "data": {
+    "all": {
+      "list": [
+        {
+          "id": 67834,
+          "title":
+            "车展群英荟 | 云度新能源刘心文：云度π7契合消费者未来升级需求",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201805/1525307457580447.jpg",
+          "summary":
+            "在2018北京国际车展现场，云度π7全球首发，这也是云度新能源继π1、π3后的第3款全新纯电动SUV。刚刚过去的2017年对于云度来说，是不平凡的一年：从1月通过发改委审批，到6月份拿到工信部企业准入资质，再到10月10日云度首款产品π1上市，整个团队都是拼着命的干。第一电动网带着大家关心的诸多问题，与云度新能源总经理刘心文聊了聊企业发展近况。",
+          "tags": "2018北京车展,云度新能源",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1525307340000,
+          "addTimeStr": "2018-05-03 08:29:00",
+          "pcUrl": "/news/renwu/67834",
+          "commentCount": 1,
+          "likeCount": 54,
+          "likeBaseNums": 48,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67753,
+          "title": "不限号、不限行、续航无压力的插电混动才是北京车展重点？",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201805/1525181313224821.jpg",
+          "summary":
+            "上一篇我们盘点了本届北京车展上的重点纯电和部分概念车型，这次我们直入主题，盘点本届北京车展上的重点插电式混动车型，毕竟在不限号、不限行、续航无压力以及享受国家优惠政策方面不光只有纯电车型，插电混动也是不可或缺的一份子，今天就给大家数数都有哪些。",
+          "tags": "2018北京车展,插电混动",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1525217400000,
+          "addTimeStr": "2018-05-02 07:30:00",
+          "pcUrl": "/carnews/daogou/67753",
+          "commentCount": 6,
+          "likeCount": 63,
+          "likeBaseNums": 58,
+          "categoryId": 16,
+          "source": ""
+        },
+        {
+          "id": 67757,
+          "title": "车展群英荟 | 蔚来秦力洪：海有多大、有多深？",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30071/image/201805/1525175268331983.jpg",
+          "summary":
+            "在北京车展蔚来展台的这场对话，让我更加确信，新的时代，需要新的企业和新的企业家。尽管我不能断言蔚来一定能成，但我相信这个群体一定能成。",
+          "tags": "秦力洪,蔚来汽车,2018北京车展",
+          "headImg": "",
+          "addTime": 1525213800000,
+          "addTimeStr": "2018-05-02 06:30:00",
+          "pcUrl": "/news/renwu/67757",
+          "commentCount": 8,
+          "likeCount": 79,
+          "likeBaseNums": 58,
+          "categoryId": 7,
+          "source": "第一电动网"
+        },
+        {
+          "id": 67730,
+          "title": "车展群英荟 | 莊·萨缪尔：欧拉是长城推出的独立纯电动汽车品牌",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524961126889260.jpg",
+          "summary":
+            "4月25日，长城汽车在北京车展上发布了旗下独立纯电动汽车品牌——欧拉。在发布会上共带来了两款车型，分别为欧拉R1和欧拉R2车型。第一电动网等媒体与长城汽车商品企划副总裁莊·萨缪尔和欧拉研发总监乔向华进行了短暂对话，试图了解 长城汽车的新能源战略布局。",
+          "tags": "欧拉,长城纯电动车,2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524960240000,
+          "addTimeStr": "2018-04-29 08:04:00",
+          "pcUrl": "/news/renwu/67730",
+          "commentCount": 0,
+          "likeCount": 62,
+          "likeBaseNums": 58,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67726,
+          "title": "对话谷峰：爱驰汽车瞄准的是电动汽车主流市场",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30092/image/201804/1524916847669601.jpg",
+          "summary":
+            "从上海嘉定技术中心投入使用、上饶基地基建竣工、打造MAS平台，到U5 ION量产版亮相、RG Nathalie高性能跑车全球首秀，爱驰汽车在不到一个月的时间里，漂亮的完成了一系列大动作，以“爱驰速度”展示出智能电动汽车时代破局者的雄心和实力。爱驰汽车的优势在哪里？未来的发展规划是什么？第一电动网在北京车展期间与爱驰汽车联合创始人兼CEO谷峰进行了对话。",
+          "tags": "爱驰汽车,2018北京车展,谷峰",
+          "nickName": "赵迪安",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30092/image/201707/1500001566759854.jpg!w144",
+          "addTime": 1524956400000,
+          "addTimeStr": "2018-04-29 07:00:00",
+          "pcUrl": "/news/renwu/67726",
+          "commentCount": 0,
+          "likeCount": 61,
+          "likeBaseNums": 58,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67674,
+          "title": "北京车展12款重磅纯电动汽车来袭！不得不看！",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524840509783641.jpg",
+          "summary":
+            "在两年前的北京车展上，新能源汽车的比例还只占很小一部分，也并不被大家所重点关注。而在今年的北京车展上，有媒体统计参加车展的新能源车型数量已达到174台，这意味着新能源汽车所占比例越来越高、地位也越来越高，新能源汽车已然成为了各个品牌的主角。",
+          "tags": "2018北京车展,盘点",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524873000000,
+          "addTimeStr": "2018-04-28 07:50:00",
+          "pcUrl": "/carnews/daogou/67674",
+          "commentCount": 4,
+          "likeCount": 75,
+          "likeBaseNums": 58,
+          "categoryId": 16,
+          "source": ""
+        },
+        {
+          "id": 67632,
+          "title":
+            "对话日产首席工程师Hidetoshi Kadota：纯电轩逸继承了聆风平台的精髓",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30013/image/201804/1524744583664346.jpg",
+          "summary":
+            "为了更了解轩逸·纯电，第一电动网与轩逸·纯电首席工程师Hidetoshi Kadota进行了深入探讨。",
+          "tags": "轩逸·纯电,2018北京车展",
+          "nickName": "杨晓红",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30013/image/201709/1506653329325788.jpg!w144",
+          "addTime": 1524785100000,
+          "addTimeStr": "2018-04-27 07:25:00",
+          "pcUrl": "/news/renwu/67632",
+          "commentCount": 5,
+          "likeCount": 62,
+          "likeBaseNums": 58,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67647,
+          "title":
+            "车展群英荟 | 何塞·穆诺兹：日产汽车将加速在中国市场引进先进电动汽车技术",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30013/image/201804/1524759342290176.jpg",
+          "summary":
+            "日产汽车公司首席绩效官、日产中国管理委员会主席何塞·穆诺兹 (José Muñoz)表示，这一切都是基于日产“M.O.V.E to 2022”中期事业计划，“我们希望进一步深入中国市场。” ",
+          "tags": "日产,2018北京车展,何塞·穆诺兹",
+          "nickName": "杨晓红",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30013/image/201709/1506653329325788.jpg!w144",
+          "addTime": 1524758580000,
+          "addTimeStr": "2018-04-27 00:03:00",
+          "pcUrl": "/news/renwu/67647",
+          "commentCount": 0,
+          "likeCount": 61,
+          "likeBaseNums": 58,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67640,
+          "title":
+            "车展群英荟 | 李伟：长安新能源的第三次创新创业，向“香格里拉计划”进发",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30013/image/201804/1524753221362766.jpg",
+          "summary":
+            " “时代淘汰你 与你无关”，长安新能源在前进的路上，离“香格里拉”越来越近。",
+          "tags": "长安新能源,李伟,2018北京车展",
+          "nickName": "杨晓红",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30013/image/201709/1506653329325788.jpg!w144",
+          "addTime": 1524751620000,
+          "addTimeStr": "2018-04-26 22:07:00",
+          "pcUrl": "/news/renwu/67640",
+          "commentCount": 5,
+          "likeCount": 65,
+          "likeBaseNums": 58,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67637,
+          "title": "对话古惠南：广汽新能源要做面向未来的车",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30372/image/201804/1524750323668506.jpg",
+          "summary":
+            "默默地筹划了半年之后，广汽新能源终于在北京车展上公布了自己最新的品牌口号“更聪明的陪伴”，也将公司愿景定义为“成为世界领先和社会信赖的绿色移动智慧价值创造者”。广汽新能源的战略思考究竟是怎样的？我们在车展现场问了广汽新能源汽车有限公司总经理古惠南先生下面这些问题。",
+          "tags": "广汽新能源,古惠南,2018北京车展",
+          "nickName": "崔志强",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30372/image/201803/1521904674574004.jpg!w144",
+          "addTime": 1524750000000,
+          "addTimeStr": "2018-04-26 21:40:00",
+          "pcUrl": "/news/renwu/67637",
+          "commentCount": 0,
+          "likeCount": 49,
+          "likeBaseNums": 48,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67634,
+          "title": "青春就来电，众泰新能源北京车展阵容报告",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524747890113086.png",
+          "summary":
+            "4月25日，第15届北京车展正式开幕，位于中国国际展览中心新馆W2馆208展台的众泰汽车在首日赚足眼球。众泰汽车本次参展主题为“道法自然 智美天成”，展台设计上采用中国传统文化和现代智能科技元素相融合，搭配上全新设计的logo，完美诠释了众泰汽车传承工匠精神，打造智能、精美好车的信心与决心。",
+          "tags": "2018北京车展,众泰",
+          "headImg": "",
+          "addTime": 1524745620000,
+          "addTimeStr": "2018-04-26 20:27:00",
+          "pcUrl": "/carnews/xinche/67634",
+          "commentCount": 2,
+          "likeCount": 60,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": "第一电动网"
+        },
+        {
+          "id": 67630,
+          "title":
+            "法雷奥携48伏低压电动解决方案和量产激光扫描仪等创新技术亮相北京车展",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30013/image/201804/1524738293491986.jpg",
+          "summary":
+            "法雷奥的电气化解决方案涵盖所有车型和细分领域，本届北京车展上，法雷奥推出了一套极具性价比的低压纯电动解决方案。",
+          "tags": "法雷奥,2018北京车展,48V",
+          "nickName": "杨晓红",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30013/image/201709/1506653329325788.jpg!w144",
+          "addTime": 1524738240000,
+          "addTimeStr": "2018-04-26 18:24:00",
+          "pcUrl": "/news/jishu/67630",
+          "commentCount": 1,
+          "likeCount": 55,
+          "likeBaseNums": 52,
+          "categoryId": 5,
+          "source": ""
+        },
+        {
+          "id": 67588,
+          "title": "车展群英荟 | 沈海寅：奇点汽车是能“成长”的智能电动汽车",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30013/image/201804/1524662572321120.jpg",
+          "summary":
+            "已连续三年参加国际A级车展的奇点汽车已经证明自己活下来了，第一电动网带着大家关心的很多问题，与奇点汽车CEO沈海寅聊了聊企业发展近况。",
+          "tags": "奇点汽车,沈海寅,2018北京车展",
+          "nickName": "杨晓红",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30013/image/201709/1506653329325788.jpg!w144",
+          "addTime": 1524698400000,
+          "addTimeStr": "2018-04-26 07:20:00",
+          "pcUrl": "/news/renwu/67588",
+          "commentCount": 1,
+          "likeCount": 64,
+          "likeBaseNums": 58,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67590,
+          "title": "车展群英荟 | 蒋自力：双核战略推动大昌河全面转型",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30013/image/201804/1524663023444228.jpg",
+          "summary":
+            "北汽集团的领导班子坚定的支持大昌河的发展，其中集团化的支持力度很大。",
+          "tags": "昌河,蒋自力,2018北京车展",
+          "nickName": "崔志强",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30372/image/201803/1521904674574004.jpg!w144",
+          "addTime": 1524697200000,
+          "addTimeStr": "2018-04-26 07:00:00",
+          "pcUrl": "/news/renwu/67590",
+          "commentCount": 1,
+          "likeCount": 51,
+          "likeBaseNums": 48,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67612,
+          "title": "新车图解丨东风日产首款纯电动车型 轩逸纯电动版",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524685309745668.jpg",
+          "summary":
+            "在4月25日开幕的2018北京车展上，东风日产首款纯电动车型，轩逸纯电动版正式亮相。作为东风日产倾力打造的首款纯电动家轿，那么它到底表现如何，让我们一起来看一看吧。",
+          "tags": "2018北京车展,轩逸纯电动版",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524682980000,
+          "addTimeStr": "2018-04-26 03:03:00",
+          "pcUrl": "/carnews/xinche/67612",
+          "commentCount": 4,
+          "likeCount": 66,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67609,
+          "title": "新车图解丨静态体验拜腾BYTON Concept 未来不远智能已来",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30092/image/201804/1524682987688102.jpg",
+          "summary":
+            "在4月25日开幕的北京车展上，BYTON拜腾携首款车型BYTON Concept登陆车展，并发布了一些的合作与未来规划，下面就为大家带来这款车的静态体验。",
+          "tags": "拜腾BYTON Concept,2018北京车展",
+          "nickName": "赵迪安",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30092/image/201707/1500001566759854.jpg!w144",
+          "addTime": 1524682200000,
+          "addTimeStr": "2018-04-26 02:50:00",
+          "pcUrl": "/carnews/xinche/67609",
+          "commentCount": 2,
+          "likeCount": 71,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67608,
+          "title": "新车图解丨静态体验全新比亚迪唐DM 高颜值插电混动SUV来袭",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524680786410617.jpg",
+          "summary":
+            "在4月25日开幕的2018北京车展上，全新比亚迪唐DM车型正式亮相，并公布了新车预售价，其补贴后预售价格区间为25-30万元。该车是唐燃油版的插电式混动版车型，搭载一台2.0T发动机和电动机组合，外观与内饰方面与燃油版相比几乎没有不同之处，下面就让我们一起来看看这款高颜值新车吧。",
+          "tags": "2018北京车展,比亚迪",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524680340000,
+          "addTimeStr": "2018-04-26 02:19:00",
+          "pcUrl": "/carnews/daogou/67608",
+          "commentCount": 12,
+          "likeCount": 56,
+          "likeBaseNums": 48,
+          "categoryId": 16,
+          "source": ""
+        },
+        {
+          "id": 67607,
+          "title":
+            "新车图解丨静态体验比亚迪元EV360 10万级小型纯电SUV的重磅产品",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524676883138278.jpg",
+          "summary":
+            "在2018北京车展期间，比亚迪汽车正式带来了比亚迪元EV360车型，该车此前已经开启预售，其补贴后预售价为10万元，官方数据显示其综合工况续航里程可达305km，元EV360将是比亚迪针对小型纯电SUV市场领域的一款重磅车型。",
+          "tags": "2018北京车展,比亚迪",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524676380000,
+          "addTimeStr": "2018-04-26 01:13:00",
+          "pcUrl": "/carnews/daogou/67607",
+          "commentCount": 23,
+          "likeCount": 67,
+          "likeBaseNums": 58,
+          "categoryId": 16,
+          "source": ""
+        },
+        {
+          "id": 67601,
+          "title": "新车图解丨静态体验北汽新能源EU5 首款续航超500km的纯电轿车",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524673379749104.jpg",
+          "summary":
+            "北汽新能源EU系列车型可谓是纯电动车型中的一名“老将”了，从EU260到EU400，都是受广大消费者喜爱的车型。而在本次北京车展上，北汽新能源带来了EU系列的最新换代升级产品——EU5。新车共推4款车型，两种续航里程，补贴后售12.99-16.19万元，下面就让我们来看看它在外观、内饰以及动力方面有何亮点。",
+          "tags": "2018北京车展,北汽新能源",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524672780000,
+          "addTimeStr": "2018-04-26 00:13:00",
+          "pcUrl": "/carnews/daogou/67601",
+          "commentCount": 1,
+          "likeCount": 69,
+          "likeBaseNums": 58,
+          "categoryId": 16,
+          "source": ""
+        },
+        {
+          "id": 67603,
+          "title": "智能互联汽车BYTON Concept亮相2018北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30092/image/201804/1524673656867763.jpg",
+          "summary":
+            "4月25日，BYTON拜腾携首款车型BYTON Concept登陆2018北京车展，这也许是本届车展最接近量产的智能互联汽车了。BYTON拜腾将诠释一个电动化、互联化、自动驾驶及共享出行的未来，BYTON Concept于4月25号至5月4日在中国国际展览中心新馆W3馆08展台展出。",
+          "tags": "拜腾BYTON Concept,2018北京车展",
+          "nickName": "赵迪安",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30092/image/201707/1500001566759854.jpg!w144",
+          "addTime": 1524671940000,
+          "addTimeStr": "2018-04-25 23:59:00",
+          "pcUrl": "/carnews/xinche/67603",
+          "commentCount": 0,
+          "likeCount": 60,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67604,
+          "title": "全新高端品牌Polestar 亮相北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524674445588138.jpg",
+          "summary":
+            "4月25日在北京车展全新高性能电动车品牌Polestar亮相，同时旗下首款Polestar 1也在发布会亮相，该车定位于一款高性能插电混动版轿跑车型，并公布售价为145万元。",
+          "tags": "Polestar 1,2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524670740000,
+          "addTimeStr": "2018-04-25 23:39:00",
+          "pcUrl": "/carnews/xinche/67604",
+          "commentCount": 0,
+          "likeCount": 53,
+          "likeBaseNums": 50,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67600,
+          "title": "电动车也需要“驾趣” 前途汽车携三大平台车型亮相2018北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30092/image/201804/1524671619609094.jpg",
+          "summary":
+            "4月25日，前途汽车携三大平台车型前途K50、前途K20 Concept和前途Concept 1亮相2018北京国际车展。新车依旧保持前途一贯的前瞻性设计、开放的智能互联平台、轻量化的材料和模块化的电驱动技术融合进造车技术。",
+          "tags": "前途汽车,2018北京车展",
+          "nickName": "赵迪安",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30092/image/201707/1500001566759854.jpg!w144",
+          "addTime": 1524669540000,
+          "addTimeStr": "2018-04-25 23:19:00",
+          "pcUrl": "/carnews/xinche/67600",
+          "commentCount": 1,
+          "likeCount": 63,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67598,
+          "title": "汉腾纯电动轿车亮相北京车展并发布“蓝E计划”",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30092/image/201804/1524669312526936.jpg",
+          "summary":
+            "4月25日，在本届北京车展上，汉腾汽车携旗下纯电动轿车及汉腾MPV亮相，同时参展的还有汉腾X5、汉腾X7S、汉腾X5EV、汉腾X7PHEV等车型。同时，汉腾汽车正式发布全新新能源战略——“蓝E计划”，启动同京东汽车商城的战略合作。",
+          "tags": "汉腾,2018北京车展",
+          "nickName": "赵迪安",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30092/image/201707/1500001566759854.jpg!w144",
+          "addTime": 1524668400000,
+          "addTimeStr": "2018-04-25 23:00:00",
+          "pcUrl": "/carnews/xinche/67598",
+          "commentCount": 0,
+          "likeCount": 63,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67599,
+          "title": "正道集团携三款车型 于北京车展亮相",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524670174675168.jpg",
+          "summary":
+            "4月25日在北京车展正道集团携三款车型——全球首发的豪华轿车H500和豪华SUV K350，以及中国首发的正道超跑HK GT，亮相车展现场。凭借“清洁高效的发电机增程器和石墨烯超级电池黄金动力组合”这一核心技术，正道集团提出绿色出行的“新汽车生活出行方案”，完美的诠释了正道集团对未来清洁能源汽车发展的前瞻性布局。",
+          "tags": "正道,2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524668040000,
+          "addTimeStr": "2018-04-25 22:54:00",
+          "pcUrl": "/carnews/xinche/67599",
+          "commentCount": 1,
+          "likeCount": 39,
+          "likeBaseNums": 36,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67596,
+          "title":
+            "宝马推进电动化战略 BMW iX3概念车等多款新能源车型亮相北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30092/image/201804/1524667962650268.jpg",
+          "summary":
+            "4月25日，在本届北京车展上，，宝马集团共展示了7款电动车型，其中，最引人注目的全新BMW iX3概念车迎来全球首发。当天，科鲁格先生还宣布，全新BMW iX3概念车的后续量产车型将于2020年在中国投入量产。",
+          "tags": "宝马集团,宝马iX3,2018北京车展",
+          "nickName": "赵迪安",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30092/image/201707/1500001566759854.jpg!w144",
+          "addTime": 1524664320000,
+          "addTimeStr": "2018-04-25 21:52:00",
+          "pcUrl": "/carnews/xinche/67596",
+          "commentCount": 0,
+          "likeCount": 63,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67594,
+          "title": "铸造“心安之源” 腾势500亮相北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524666048764218.jpg",
+          "summary":
+            "4月25日在北京车展腾势新能源汽车有限公司携纯电动汽车腾势500，于E4展馆正式亮相。腾势500是依托戴姆勒的百年造车工艺和比亚迪领先的三电技术打造的高端纯电动汽车。在发布会上，腾势渠道拓展计划首次对外公布。同时，围绕高品质产品和消费者，腾势构建了以产研模式、体验模式、服务模式、渠道模式为核心的腾势“心安之源”。",
+          "tags": "腾势新能源汽车,2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524664140000,
+          "addTimeStr": "2018-04-25 21:49:00",
+          "pcUrl": "/carnews/xinche/67594",
+          "commentCount": 0,
+          "likeCount": 46,
+          "likeBaseNums": 42,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67593,
+          "title": "比亚迪宋MAX插电混动版亮相 纯电续航80km",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524663134245068.jpg",
+          "summary":
+            " 本届北京车展上，比亚迪宋MAX插电混动版车型正式亮相，该车的混动系统由1.5T+电动机组成。",
+          "tags": "2018北京车展,比亚迪",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524663000000,
+          "addTimeStr": "2018-04-25 21:30:00",
+          "pcUrl": "/carnews/xinche/67593",
+          "commentCount": 18,
+          "likeCount": 66,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67589,
+          "title": "奇瑞控股捷途全新概念车JETOUR X亮相　",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524662333559612.jpg",
+          "summary":
+            "在2018北京车展上，奇瑞控股捷途首款概念车JETOUR X第二次亮相，因为该车在车展前夕已进行过首发亮相。JETOUR X体现出了捷途产品的智能化、新能源化、互联化、轻量化的发展方向。",
+          "tags": "2018北京车展,JETOUR X概念车",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524661980000,
+          "addTimeStr": "2018-04-25 21:13:00",
+          "pcUrl": "/carnews/xinche/67589",
+          "commentCount": 0,
+          "likeCount": 36,
+          "likeBaseNums": 34,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67591,
+          "title": "聚焦未来都市共享出行 雷诺EZ-GO在北京车展亚洲首秀",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30092/image/201804/1524662782848184.jpg",
+          "summary":
+            "4月25日，在2018北京国际汽车展览会雷诺暨东风雷诺新闻发布会上，雷诺集团最新概念车雷诺EZ-GO正式亚洲首秀，以全新的理念前瞻未来都市共享出行的美好愿景和“东风雷诺2022愿景”的技术方向。",
+          "tags": "雷诺,雷诺EZ-GO,2018北京车展",
+          "nickName": "赵迪安",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30092/image/201707/1500001566759854.jpg!w144",
+          "addTime": 1524661800000,
+          "addTimeStr": "2018-04-25 21:10:00",
+          "pcUrl": "/carnews/xinche/67591",
+          "commentCount": 1,
+          "likeCount": 63,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67592,
+          "title": "开启绿色发展新征程 福田新能源汽车亮相北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524663512775086.png",
+          "summary":
+            "4月25日在北京车展福田汽车发布亮相了奥铃EV、欧辉氢燃料电池客车、BROCK和图雅诺EV共4款新能源产品。这不仅体现了福田汽车聚焦用户价值、促进物流行业降本增效所作的不懈努力，同时也强调了企业助力行业绿色高效发展的决心和信念。",
+          "tags": "福田新能源,2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524660840000,
+          "addTimeStr": "2018-04-25 20:54:00",
+          "pcUrl": "/carnews/xinche/67592",
+          "commentCount": 0,
+          "likeCount": 63,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67583,
+          "title": "电咖·EV10升级版亮相 续航提升至270km",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524660054916495.jpg",
+          "summary":
+            "在2018北京车展上，电咖汽车推出了EV10的升级版车型，新车综合续航里程提高至270km，比现款车型的综合续航里程提升了115km，其他方面与现款车型基本保持一致。",
+          "tags": "2018北京车展,电咖",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524659520000,
+          "addTimeStr": "2018-04-25 20:32:00",
+          "pcUrl": "/carnews/xinche/67583",
+          "commentCount": 0,
+          "likeCount": 28,
+          "likeBaseNums": 24,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67584,
+          "title": "纯电动乘用车品牌欧拉 在北京车展正式发布",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524659897442509.jpg",
+          "summary":
+            "随着社会经济的不断发展，消费者对于车辆的要求已经不仅仅是出行代步的工具，而是开始朝着更智能、更娱乐的多元化方向发展，如今在环保需求与国家政策的多重作用下，还要求车辆具备环保性，于是电动汽车应运而生。就在每逢双年举办的北京车展中，长城汽车发布了旗下独立纯电动汽车品牌——欧拉。",
+          "tags": "2018北京车展,长城欧拉",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524658860000,
+          "addTimeStr": "2018-04-25 20:21:00",
+          "pcUrl": "/carnews/xinche/67584",
+          "commentCount": 0,
+          "likeCount": 25,
+          "likeBaseNums": 20,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67580,
+          "title": "全面进入造车新时代 比亚迪汽车强势出击北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524659052900572.jpg",
+          "summary":
+            "4月25日，比亚迪汽车强势登陆第十五届北京车展。比亚迪董事长王传福先生、销售公司总经理赵长江先生以及设计总监艾格先生等高层领导均出席了本次车展。作为新能源领域的引领者，比亚迪在本次车展上不负众望，展现出非凡实力。",
+          "tags": "2018北京车展,比亚迪",
+          "headImg": "",
+          "addTime": 1524658620000,
+          "addTimeStr": "2018-04-25 20:17:00",
+          "pcUrl": "/carnews/xinche/67580",
+          "commentCount": 0,
+          "likeCount": 32,
+          "likeBaseNums": 24,
+          "categoryId": 14,
+          "source": "第一电动网"
+        },
+        {
+          "id": 67577,
+          "title": "比亚迪秦Pro正式发布 插电混动轿车又一新力作",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524652578367230.jpg",
+          "summary":
+            "4月25日，第十五届北京国际车展正式开幕。在这个全球车企大秀看家车型的至高舞台，比亚迪“王朝”新成员全新中级车——秦Pro全球首发亮相。据悉，该车预计2019年上市，届时将与秦联袂覆盖中级车、紧凑型车市场进行同堂销售，补贴后售价或20万元起。",
+          "tags": "2018北京车展,比亚迪",
+          "headImg": "",
+          "addTime": 1524652260000,
+          "addTimeStr": "2018-04-25 18:31:00",
+          "pcUrl": "/carnews/xinche/67577",
+          "commentCount": 1,
+          "likeCount": 36,
+          "likeBaseNums": 32,
+          "categoryId": 14,
+          "source": "第一电动网"
+        },
+        {
+          "id": 67576,
+          "title": "爱驰RG高性能跑车发布 最大续航1200km/百公里加速2.5s",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524651999706412.jpg",
+          "summary":
+            "在2018北京车展上，爱驰汽车首款高端跑车RG进行了首秀。该车定位为一款纯电动跑车，拥有炫酷、动感的外观设计，百公里加速时间仅需2.5s，理论最大续航里程可达1200km，最高时速可达300km/h，优异的性能得益于氢燃料电池的辅助。",
+          "tags": "2018北京车展,爱驰汽车",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524650820000,
+          "addTimeStr": "2018-04-25 18:07:00",
+          "pcUrl": "/carnews/xinche/67576",
+          "commentCount": 2,
+          "likeCount": 33,
+          "likeBaseNums": 24,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67575,
+          "title": "爱驰U5 ION概念车正式亮相 预计2019年上市",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524649267611535.jpg",
+          "summary":
+            "爱驰汽车旗下首款纯电动SUV——U5 ION概念车定位于一款中型SUV，并基于爱驰汽车自行开发的MAS平台进行打造，未来将搭载L2级别自动驾驶技术，预计2019年正式上市，NEDC续航里程为460km。",
+          "tags": "2018北京车展,爱驰汽车",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524648900000,
+          "addTimeStr": "2018-04-25 17:35:00",
+          "pcUrl": "/carnews/xinche/67575",
+          "commentCount": 0,
+          "likeCount": 24,
+          "likeBaseNums": 22,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67574,
+          "title": "北汽新能源EU5正式上市 补贴后12.99万起售",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524648637718069.jpg",
+          "summary":
+            "在4月25日开幕的2018北京车展上，北汽新能源EU5正式上市，新车共推出4款车型，补贴后售价区间为12.99-16.19万元。新车可看做是现款EU400的升级版本，拥有R500与R550两个版本，续航里程分别为416-520km与450-570km，该车成为北汽新能源旗下续航最长的车型。",
+          "tags": "2018北京车展,北汽新能源",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524648060000,
+          "addTimeStr": "2018-04-25 17:21:00",
+          "pcUrl": "/carnews/xinche/67574",
+          "commentCount": 3,
+          "likeCount": 49,
+          "likeBaseNums": 42,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67572,
+          "title": "力帆汽车再添“新”将，新能源车型650EV亮相北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30018/image/201804/1524644165664373.png",
+          "summary":
+            "2018北京参展，力帆汽车也带来了一款纯电动新能源轿车——力帆650EV。",
+          "tags": "2018北京车展,力帆",
+          "headImg": "",
+          "addTime": 1524643440000,
+          "addTimeStr": "2018-04-25 16:04:00",
+          "pcUrl": "/carnews/xinche/67572",
+          "commentCount": 39,
+          "likeCount": 17,
+          "likeBaseNums": 14,
+          "categoryId": 14,
+          "source": "第一电动网"
+        },
+        {
+          "id": 67571,
+          "title": "云度π7北京车展首发 最大续航超550km",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524646301165355.jpg",
+          "summary":
+            "4月25日，在2018年北京车展上，云度新能源正式发布了旗下的第三款SUV车型——云度π7。",
+          "tags": "2018北京车展,云度",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524641760000,
+          "addTimeStr": "2018-04-25 15:36:00",
+          "pcUrl": "/carnews/xinche/67571",
+          "commentCount": 1,
+          "likeCount": 77,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67569,
+          "title": "本田旗下“理念EV Concept”首次亮相",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524647859502452.jpg",
+          "summary":
+            "在2018北京车展上，本田汽车发布了理念（EVERUS）品牌全新形象片，展现出更年轻、时尚、个性的焕新品牌形象。与此同时，纯电动概念车“理念EV Concept”首次亮相。",
+          "tags": "2018北京车展,本田",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524640680000,
+          "addTimeStr": "2018-04-25 15:18:00",
+          "pcUrl": "/carnews/xinche/67569",
+          "commentCount": 0,
+          "likeCount": 42,
+          "likeBaseNums": 38,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67566,
+          "title": "全新一代唐公布预售价，插电混动车型补贴后最低25万起",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30018/image/201804/1524639137155280.jpg",
+          "summary":
+            "4月25日，比亚迪携多款车型亮相北京车展，并公布了全新一代唐的两种动力车型的预售价格。",
+          "tags": "2018北京车展,比亚迪",
+          "nickName": "崔志强",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30372/image/201803/1521904674574004.jpg!w144",
+          "addTime": 1524638760000,
+          "addTimeStr": "2018-04-25 14:46:00",
+          "pcUrl": "/carnews/xinche/67566",
+          "commentCount": 0,
+          "likeCount": 59,
+          "likeBaseNums": 54,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67565,
+          "title": "3款纯电乘用车6款纯电商用车，长江汽车“乘商并举”亮相北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30018/image/201804/1524638657141723.jpg",
+          "summary":
+            "4月25日，长江汽车携旗下3款纯电动乘用车和6款纯电动商用车全新亮相。",
+          "tags": "长江汽车,2018北京车展",
+          "nickName": "宋爱菊",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30071/image/201707/1499995533439234.jpg!w144",
+          "addTime": 1524637620000,
+          "addTimeStr": "2018-04-25 14:27:00",
+          "pcUrl": "/carnews/xinche/67565",
+          "commentCount": 0,
+          "likeCount": 44,
+          "likeBaseNums": 38,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67564,
+          "title": "名爵X-motion Concept北京车展全球首秀，今年将量产",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30018/image/201804/1524637281890419.jpg",
+          "summary":
+            "4月25日，作为全球主流SUV中第一款采用“纯形面设计+光影肩线设计”的车型——MG X-motion Concept概念车在名爵展台首次公开亮相。",
+          "tags": "2018北京车展,MG X-motion Concept",
+          "nickName": "宋爱菊",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30071/image/201707/1499995533439234.jpg!w144",
+          "addTime": 1524636900000,
+          "addTimeStr": "2018-04-25 14:15:00",
+          "pcUrl": "/carnews/xinche/67564",
+          "commentCount": 1,
+          "likeCount": 23,
+          "likeBaseNums": 20,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67561,
+          "title": "威马第二款车型EX6 Concept首亮相，EX5收获5143台实时订单",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30018/image/201804/1524635611741291.png",
+          "summary":
+            "造车新势力威马汽车首度登陆北京国际车展，携首款全车交互纯电SUV威马EX5，以及威马EX6 Concept、威马EX5 Pro(Designed by Isdera)、Isdera Commendatore GT三款全球首发车型亮相。",
+          "tags": "2018北京车展,威马汽车",
+          "nickName": "宋爱菊",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30071/image/201707/1499995533439234.jpg!w144",
+          "addTime": 1524635220000,
+          "addTimeStr": "2018-04-25 13:47:00",
+          "pcUrl": "/carnews/xinche/67561",
+          "commentCount": 5,
+          "likeCount": 73,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67560,
+          "title": "日产未来5年在华投放20款电动车型，纯电动轩逸下半年上市",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30018/image/201804/1524635148310947.jpg",
+          "summary":
+            "4月25日，日产汽车携首款专为中国消费者量身定制、面向中国市场的全新电动车型及其他两款电动汽车亮相北京车展。未来五年，日产汽车将向中国市场投放20款电动化车型，覆盖日产、启辰、英菲尼迪和东风品牌。",
+          "tags": "日产,2018北京车展",
+          "nickName": "杨晓红",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30013/image/201709/1506653329325788.jpg!w144",
+          "addTime": 1524634980000,
+          "addTimeStr": "2018-04-25 13:43:00",
+          "pcUrl": "/carnews/xinche/67560",
+          "commentCount": 0,
+          "likeCount": 34,
+          "likeBaseNums": 32,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67558,
+          "title": "上汽大通仿生智联纯电SUV概念车TARANTULA亮相北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30018/image/201804/1524632528356286.png",
+          "summary":
+            "4月25日，第十五届北京国际汽车展览会上，上汽大通在其展位举行了以“智选·智联·智行”为主题的发布会。",
+          "tags": "上汽大通,2018北京车展",
+          "nickName": " 王宁",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35816/image/201803/1521622530573835.jpg!w144",
+          "addTime": 1524631800000,
+          "addTimeStr": "2018-04-25 12:50:00",
+          "pcUrl": "/carnews/xinche/67558",
+          "commentCount": 0,
+          "likeCount": 21,
+          "likeBaseNums": 18,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67586,
+          "title": "重视新能源发展 WEY品牌携家族多款首发车型亮相北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30092/image/201804/1524661173252526.jpg",
+          "summary":
+            "4月25日，WEY品牌携旗下新能源和多款全新燃油车型等家族全系阵容登陆北京车展。在车展上，WEY品牌以“引领WEY来”为主题，揭幕7款车型联袂的全新产品矩阵：WEY-X、P8、WEYRS7、VV6、VV5四驱版、VV7和VV5，其中更有多款新能源车型。",
+          "tags": "2018北京车展,WEY-X,WEY P8",
+          "nickName": "赵迪安",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30092/image/201707/1500001566759854.jpg!w144",
+          "addTime": 1524629400000,
+          "addTimeStr": "2018-04-25 12:10:00",
+          "pcUrl": "/carnews/xinche/67586",
+          "commentCount": 0,
+          "likeCount": 47,
+          "likeBaseNums": 44,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67557,
+          "title": "奇点汽车战略签约北汽新能源，发布新车型iM8",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30018/image/201804/1524630967356243.jpg",
+          "summary":
+            "4月25日，奇点汽车在2018北京国际车展上正式披露了奇点iS6的量产上市信息，并宣布将与北汽新能源在智能汽车技术开发、充换电设施建设、经销网络、制造资源共享等方面展开全面战略合作。",
+          "tags": "奇点汽车,2018北京车展",
+          "nickName": "杨晓红",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30013/image/201709/1506653329325788.jpg!w144",
+          "addTime": 1524628740000,
+          "addTimeStr": "2018-04-25 11:59:00",
+          "pcUrl": "/carnews/xinche/67557",
+          "commentCount": 0,
+          "likeCount": 69,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67559,
+          "title":
+            "车展群英荟 | 周振江：力帆汽车将定位年轻化产品，在智能化、信息化方面做更多尝试",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30018/image/201804/1524633560102147.jpg",
+          "summary":
+            "力帆汽车将自己的目标用户瞄准八零九零后人群，致力于产品的智能化、信息化、年轻化，同时发力B、C两端市场，给了我们足够多的惊喜。",
+          "tags": "2018北京车展,力帆汽车",
+          "nickName": "崔志强",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30372/image/201803/1521904674574004.jpg!w144",
+          "addTime": 1524628560000,
+          "addTimeStr": "2018-04-25 11:56:00",
+          "pcUrl": "/news/renwu/67559",
+          "commentCount": 40,
+          "likeCount": 62,
+          "likeBaseNums": 58,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67556,
+          "title": "最高续航500km江淮iEVA50北京车展上市，补贴后售价12.25万元起",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30018/image/201804/1524626854902450.jpg",
+          "summary":
+            "4月25日，江淮旗下首款续航里程突破500km的紧凑型纯电动轿车——江淮iEVA50在北京车展正式上市。",
+          "tags": "2018北京车展,江淮iEVA50",
+          "nickName": "赵迪安",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30092/image/201707/1500001566759854.jpg!w144",
+          "addTime": 1524624960000,
+          "addTimeStr": "2018-04-25 10:56:00",
+          "pcUrl": "/carnews/xinche/67556",
+          "commentCount": 2,
+          "likeCount": 67,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67555,
+          "title": "大众汽车I.D. VIZZION自动驾驶概念车亚洲首发",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30018/image/201804/1524624620302477.jpg",
+          "summary":
+            " 4月25日，大众汽车品牌未来I.D.家族全新旗舰车型I.D. VIZZION在北京国际车展亚洲首发。从2020年起，大众汽车品牌将在两到三年内于中国推出约10款I.D.家族车型。",
+          "tags": "2018北京车展,大众汽车",
+          "nickName": "杨晓红",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30013/image/201709/1506653329325788.jpg!w144",
+          "addTime": 1524623940000,
+          "addTimeStr": "2018-04-25 10:39:00",
+          "pcUrl": "/carnews/xinche/67555",
+          "commentCount": 0,
+          "likeCount": 52,
+          "likeBaseNums": 46,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67554,
+          "title": "最大续航500公里，荣威MARVEL X北京车展首秀",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30018/image/201804/1524623361850594.jpg",
+          "summary":
+            "4月25日，在第十五届北京国际车展上，电动智能超跑SUV荣威MARVEL X、纯电动互联网休旅车荣威Ei5、纯电动互联网SUV荣威ERX5、全球首款量产互联网汽车荣威RX5等车型亮相",
+          "tags": "2018北京车展,荣威MARVEL X",
+          "nickName": "宋爱菊",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30071/image/201707/1499995533439234.jpg!w144",
+          "addTime": 1524623280000,
+          "addTimeStr": "2018-04-25 10:28:00",
+          "pcUrl": "/carnews/xinche/67554",
+          "commentCount": 0,
+          "likeCount": 45,
+          "likeBaseNums": 38,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67528,
+          "title": "车展群英荟｜俞经民：上汽荣威是用心做产品的“新势力”",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30071/image/201804/1524556970403660.jpg",
+          "summary":
+            "大家习惯把一些新兴企业叫做“新势力”，但真正用心做产品、创新能力比较强的企业，才是“新势力”。而上汽荣威正是这样的“新势力”。",
+          "tags": "上汽荣威,2018北京车展",
+          "nickName": "宋爱菊",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30071/image/201707/1499995533439234.jpg!w144",
+          "addTime": 1524609000000,
+          "addTimeStr": "2018-04-25 06:30:00",
+          "pcUrl": "/news/renwu/67528",
+          "commentCount": 1,
+          "likeCount": 49,
+          "likeBaseNums": 48,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67539,
+          "title": "北京车展探馆 |中型纯电动SUV 威马EX6概念车亮相",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524561936522116.jpg",
+          "summary":
+            "第一电动网编辑在北京车展现场拍摄到威马EX6实车。该车是一款中型纯电动SUV，定位略高于现已上市的车型EX5，据了解，该车将于2019年上市。",
+          "tags": "2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524561540000,
+          "addTimeStr": "2018-04-24 17:19:00",
+          "pcUrl": "/carnews/xinche/67539",
+          "commentCount": 4,
+          "likeCount": 49,
+          "likeBaseNums": 42,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67538,
+          "title": "北京车展探馆 |正道三款全新车型实拍",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524561357878708.jpg",
+          "summary":
+            "第一电动网编辑在北京车展现场拍摄到正道三款全新车型实车。正道豪华轿车H500及正道豪华SUV K350全球首发，正道超跑HK GT也会闪耀亮相，这是HK GT首次在国内展出。",
+          "tags": "2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524560700000,
+          "addTimeStr": "2018-04-24 17:05:00",
+          "pcUrl": "/carnews/xinche/67538",
+          "commentCount": 0,
+          "likeCount": 57,
+          "likeBaseNums": 54,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67535,
+          "title": "北京车展探馆 |续航里程达300km 东南DX3 EV实拍",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524560413101650.jpg",
+          "summary":
+            "第一电动网编辑在北京车展现场拍摄到东南DX3 EV实车。第一电动网编辑在北京车展现场拍摄到东南DX3 EV实车。在外观设计方面，新车与现款燃油版车型基本保持一致，只是在细节方面进行了调整。",
+          "tags": "2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524559560000,
+          "addTimeStr": "2018-04-24 16:46:00",
+          "pcUrl": "/carnews/xinche/67535",
+          "commentCount": 0,
+          "likeCount": 61,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67533,
+          "title": "北京车展探馆 |东风日产全新纯电动车 或为日产轩逸EV300",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524559445413967.jpg",
+          "summary":
+            "第一电动网编辑在北京车展现场拍摄到东风日产的全新纯电动车实车，或为东风日产轩逸EV300。",
+          "tags": "2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524558660000,
+          "addTimeStr": "2018-04-24 16:31:00",
+          "pcUrl": "/carnews/xinche/67533",
+          "commentCount": 2,
+          "likeCount": 41,
+          "likeBaseNums": 38,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67532,
+          "title": "北京车展探馆 |高性价比纯电动SUV 比亚迪元EV360实拍",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524558495150665.jpg",
+          "summary":
+            "第一电动网编辑在北京车展现场拍摄到比亚迪元EV360实车。据了解，比亚迪元EV360综合工况续航里程为305km，新车将于二季度上市。",
+          "tags": "2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524558120000,
+          "addTimeStr": "2018-04-24 16:22:00",
+          "pcUrl": "/carnews/xinche/67532",
+          "commentCount": 4,
+          "likeCount": 64,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67531,
+          "title": "北京车展探馆 |上汽大通纯电动SUV概念车实拍",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524557961130651.jpg",
+          "summary":
+            "第一电动网编辑在北京车展现场拍摄到上汽大通纯电动SUV概念车实车。该车将与“智选·智联·智行”理念融合，打造全新的用车理念。",
+          "tags": "2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524557340000,
+          "addTimeStr": "2018-04-24 16:09:00",
+          "pcUrl": "/carnews/xinche/67531",
+          "commentCount": 0,
+          "likeCount": 60,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67527,
+          "title": "北京车展探馆 |摩拜共享版+私人定制版，新特DEV 1实拍",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524556957890944.jpg",
+          "summary":
+            "第一电动网编辑在北京车展现场拍摄到新特DEV1实车。DEV 1车型是新特与一汽合作生产的首款A0级纯电动汽车。一个面向私人用户销售，另一个是为摩拜深度定制生产的共享版。据了解，新车今年9月开始批量交付，售价区间在10万元以下。",
+          "tags": "2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524556260000,
+          "addTimeStr": "2018-04-24 15:51:00",
+          "pcUrl": "/carnews/xinche/67527",
+          "commentCount": 0,
+          "likeCount": 62,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67518,
+          "title": "北京车展探馆 |全新高端品牌Polestar首款车型 Polestar 1实拍",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524554079581370.jpg",
+          "summary":
+            "第一电动网编辑在北京车展现场拍摄到全新高端品牌Polestar的Polestar 1车型实车。据了解，该车定位为一款高性能轿跑车型，将搭载一套插电式混合动力系统。",
+          "tags": "2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524553620000,
+          "addTimeStr": "2018-04-24 15:07:00",
+          "pcUrl": "/carnews/xinche/67518",
+          "commentCount": 0,
+          "likeCount": 61,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67516,
+          "title": "北京车展探馆 |汉腾X5 EV实拍",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524553389711627.jpg",
+          "summary":
+            "第一电动网编辑在北京车展现场拍摄到汉腾X5 EV实车，新车基于现款汉腾X5传统动力版车型打造。",
+          "tags": "2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524552840000,
+          "addTimeStr": "2018-04-24 14:54:00",
+          "pcUrl": "/carnews/xinche/67516",
+          "commentCount": 0,
+          "likeCount": 60,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67515,
+          "title": "北京车展探馆 |破百仅需4秒 荣威MARVEL X实拍",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524552625508818.jpg",
+          "summary":
+            "第一电动网编辑在北京车展现场拍摄到荣威MARVEL X实车。据了解，新车将会在6月份启动预售，9月份交付用户。",
+          "tags": "2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524552000000,
+          "addTimeStr": "2018-04-24 14:40:00",
+          "pcUrl": "/carnews/xinche/67515",
+          "commentCount": 2,
+          "likeCount": 63,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67511,
+          "title": "北京车展探馆 |比亚迪宋MAX插电混动版实拍",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524551799149455.jpg",
+          "summary":
+            "第一电动网编辑在北京车展现场拍摄到宋MAX插电混动版车型实车。据了解，该车将于今年第二季度内正式上市。",
+          "tags": "2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524551280000,
+          "addTimeStr": "2018-04-24 14:28:00",
+          "pcUrl": "/carnews/xinche/67511",
+          "commentCount": 1,
+          "likeCount": 66,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67509,
+          "title": "北京车展探馆 |续航可达400公里 北汽新能源EX5实拍",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524550997550859.jpg",
+          "summary":
+            "第一电动网编辑在北京车展现场拍摄到北汽新能源ET400实车。据了解，北汽新能源ET400定位为紧凑型SUV，并将于北京车展期间正式上市。",
+          "tags": "2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524550620000,
+          "addTimeStr": "2018-04-24 14:17:00",
+          "pcUrl": "/carnews/xinche/67509",
+          "commentCount": 3,
+          "likeCount": 61,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67506,
+          "title": "北京车展探馆 |续航可达520km 北汽新能源EU5实拍",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524550522281048.jpg",
+          "summary":
+            "第一电动网编辑在北京车展现场拍摄到北汽新能源EU5实车。北汽新能源EU5基于全新绅宝D50打造，重点突出人工智能技术，最高等速续航可达520km。",
+          "tags": "2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524550200000,
+          "addTimeStr": "2018-04-24 14:10:00",
+          "pcUrl": "/carnews/xinche/67506",
+          "commentCount": 1,
+          "likeCount": 64,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67503,
+          "title": "北京车展探馆 |百公里加速仅4.6S 前途K50实拍",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524549982700488.jpg",
+          "summary":
+            "第一电动网编辑在北京车展现场拍摄到前途汽车首款纯电动跑车K50实车。据悉，该车12月底开始上生产线试生产，2018年3月份第二次试生产、5月份第三次试生产。正式开始生产目前计划在2018年6月份。​",
+          "tags": "2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524549540000,
+          "addTimeStr": "2018-04-24 13:59:00",
+          "pcUrl": "/carnews/xinche/67503",
+          "commentCount": 1,
+          "likeCount": 62,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67502,
+          "title": "北京车展探馆 |百公里加速仅需5.1秒 特斯拉Model 3实拍",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524549221514782.jpg",
+          "summary":
+            "第一电动网编辑在北京车展现场拍摄到特斯拉Model 3实车。新车是特斯拉旗下的入门车型，速度破百最快仅需5.1秒，续航最长可达500公里左右。",
+          "tags": "特斯拉Model 3,2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524548700000,
+          "addTimeStr": "2018-04-24 13:45:00",
+          "pcUrl": "/carnews/xinche/67502",
+          "commentCount": 1,
+          "likeCount": 65,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67451,
+          "title": "新车抢先看丨续航超400km 长安第二代逸动EV将在北京车展亮相",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524467761610874.jpg",
+          "summary":
+            "据悉，第二代逸动EV将会在即将拉开帷幕的北京车展亮相。据了解，第二代逸动EV是首款采用家族化设计语言的纯电动汽车，也是长安首款续航超400km的纯电动轿车，百公里耗电仅为14.2度。",
+          "tags": "2018北京车展,长安第二代逸动EV",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524528000000,
+          "addTimeStr": "2018-04-24 08:00:00",
+          "pcUrl": "/carnews/xinche/67451",
+          "commentCount": 2,
+          "likeCount": 50,
+          "likeBaseNums": 48,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67470,
+          "title": "车展群英荟｜戴雷：拜腾是给90后年轻人量身定制的豪华品牌",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30071/image/201804/1524496983979013.jpg",
+          "summary":
+            "“拜腾虽然是个高端豪华品牌，但是一定要达到亲民的价格，这个方向我们会一直保持。” 在拜腾首款可驾驶概念车BYTON Concept中国首映礼上，拜腾总裁兼联合创始人戴雷说道。",
+          "tags": "拜腾,2018北京车展",
+          "nickName": "宋爱菊",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30071/image/201707/1499995533439234.jpg!w144",
+          "addTime": 1524522600000,
+          "addTimeStr": "2018-04-24 06:30:00",
+          "pcUrl": "/news/renwu/67470",
+          "commentCount": 0,
+          "likeCount": 43,
+          "likeBaseNums": 36,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67471,
+          "title":
+            "Christian Senger：大众汽车到2025年将向中国投放10款MEB平台车型",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30013/image/201804/1524499424160621.jpg",
+          "summary":
+            "I.D.VIZZION是一款最个性化、充满情感和独特的大众汽车，真实展现了我们关于大众汽车的未来愿景。我们最迟将于2022年推出I.D.家族中的顶级轿车。",
+          "tags": "I.D.VIZZION,大众汽车,2018北京车展",
+          "nickName": "杨晓红",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30013/image/201709/1506653329325788.jpg!w144",
+          "addTime": 1524498360000,
+          "addTimeStr": "2018-04-23 23:46:00",
+          "pcUrl": "/news/renwu/67471",
+          "commentCount": 0,
+          "likeCount": 45,
+          "likeBaseNums": 44,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67468,
+          "title":
+            "新车抢先看丨大众I.D. VIZZION概念车国内亮相 最大续航700km/L5自动驾驶",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524531220892168.jpg",
+          "summary":
+            "在2018北京车展开幕前夕，大众I.D. Vizzion旗舰概念车在国内首次亮相，该车曾在2018年日内瓦车展首度亮相，一经亮相便赢得了全世界的关注，I.D. Vizzion的量产版将会在2022年率先在中国上市。",
+          "tags": "2018北京车展,大众",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524493440000,
+          "addTimeStr": "2018-04-23 22:24:00",
+          "pcUrl": "/carnews/xinche/67468",
+          "commentCount": 1,
+          "likeCount": 34,
+          "likeBaseNums": 28,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67465,
+          "title": "新车抢先看丨捷途JETOUR X概念车发布，iPeL平台打造",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524492884932154.jpg",
+          "summary":
+            "在2018年北京车展开幕前，奇瑞控股旗下捷途品牌首款JETOUR X概念车正式亮相，据悉，新车新车基于捷途iPeL平台打造，由捷途北美研发中心负责造型设计，并搭载了全新的智能驾驶解决方案。",
+          "tags": "2018北京车展,JETOUR X概念车",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524492240000,
+          "addTimeStr": "2018-04-23 22:04:00",
+          "pcUrl": "/carnews/xinche/67465",
+          "commentCount": 1,
+          "likeCount": 34,
+          "likeBaseNums": 30,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67463,
+          "title": " 新车抢先看丨综合工况续航400km 江淮iEVA50将于北京车展上市",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30092/image/201804/1524488130937170.jpg",
+          "summary":
+            "日前，第一电动网从江淮新能源官方获悉，江淮新能源iEVA50将于北京车展正式上市，新车定位于紧凑级轿车，并提供多种续航里程的车型供消费者选择，其中家用长程版车型综合工况续航里程达400km，最大续航里程突破500km。该车将搭载三元锂和磷酸铁锂两种电池包并采用液冷电池包技术。",
+          "tags": "江淮iEVA50,2018北京车展",
+          "nickName": "赵迪安",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30092/image/201707/1500001566759854.jpg!w144",
+          "addTime": 1524486540000,
+          "addTimeStr": "2018-04-23 20:29:00",
+          "pcUrl": "/carnews/xinche/67463",
+          "commentCount": 2,
+          "likeCount": 64,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67452,
+          "title": "智能“新物种”是什么概念？看荣威MARVEL X全球首秀",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30092/image/201804/1524468569994124.jpg",
+          "summary":
+            "当汽车遇上人工智能会碰撞出什么火花？消费升级又将如何改写造车方向？得益于上汽集团“新四化”的前瞻布局，荣威品牌以“新四化”为方向，坚持对未来汽车“新物种”形态和未来智能出行生态进行探索，将明日科技带入日常生活。",
+          "tags": "荣威MARVEL X,2018北京车展",
+          "headImg": "",
+          "addTime": 1524467100000,
+          "addTimeStr": "2018-04-23 15:05:00",
+          "pcUrl": "/carnews/xinche/67452",
+          "commentCount": 0,
+          "likeCount": 61,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": "第一电动网"
+        },
+        {
+          "id": 67432,
+          "title": "新车抢先看丨捷豹首款纯电动车型I-PACE北京车展亮相",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30092/image/201804/1524445345591544.jpg",
+          "summary":
+            "近日，第一电动网从捷豹汽车官方获悉，捷豹I-PACE将于4月23日国内首发，并公布其在华的官方指导价格，并将于北京车展亮相。该车是捷豹最新的纯电动SUV车型，此前捷豹I-PACE已经在3月6日（日内瓦时间）开幕的2018日内瓦车展上正式亮相。",
+          "tags": "捷豹I-PACE,2018北京车展",
+          "nickName": "赵迪安",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30092/image/201707/1500001566759854.jpg!w144",
+          "addTime": 1524449100000,
+          "addTimeStr": "2018-04-23 10:05:00",
+          "pcUrl": "/carnews/xinche/67432",
+          "commentCount": 0,
+          "likeCount": 64,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67405,
+          "title": "新车抢先看丨汉腾首款纯电动轿车首度亮相北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30092/image/201804/1524401889676927.jpeg",
+          "summary":
+            "日前，第一电动网从汉腾汽车官方获悉，汉腾首款纯电动轿车将首度亮相北京车展，该车是汉腾汽车针对新能源市场，秉承精致、时尚、动感、科技、智能、人性化的造车理念，精心打造的纯电动“国民”轿车，定位于A00级别。此外有消息称，其综合续航里程或将超过255km。",
+          "tags": "汉腾,2018北京车展",
+          "nickName": "赵迪安",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30092/image/201707/1500001566759854.jpg!w144",
+          "addTime": 1524445200000,
+          "addTimeStr": "2018-04-23 09:00:00",
+          "pcUrl": "/carnews/xinche/67405",
+          "commentCount": 0,
+          "likeCount": 59,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67415,
+          "title": "新车抢先看丨正道汽车2018北京车展阵容曝光 H500/K350首发亮相",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524406092986297.jpg",
+          "summary":
+            "日前，正道汽车公布了其在2018北京车展的展车阵容；正道汽车将带来三款首发新车，其中除了正道GT概念车的国内首秀外，全新轿车H500和全新SUV K350车型也将迎来全球首发。",
+          "tags": "2018北京车展,正道汽车",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524443400000,
+          "addTimeStr": "2018-04-23 08:30:00",
+          "pcUrl": "/carnews/xinche/67415",
+          "commentCount": 0,
+          "likeCount": 61,
+          "likeBaseNums": 56,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67403,
+          "title": "新车抢先看丨雷诺EZ-GO概念车于北京车展亚洲首秀",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30092/image/201804/1524401245773742.jpg",
+          "summary":
+            "近日，第一电动网从雷诺官方获悉，雷诺EZ-GO纯电动概念车将于北京车展完成亚洲首秀。在早先的2018日内瓦车展上，雷诺发布了EZ-GO纯电动概念车，新车采用全透明设计，车内巨大座舱采用了类似家庭客厅的设计理念。",
+          "tags": "雷诺,2018北京车展",
+          "nickName": "赵迪安",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30092/image/201707/1500001566759854.jpg!w144",
+          "addTime": 1524442800000,
+          "addTimeStr": "2018-04-23 08:20:00",
+          "pcUrl": "/carnews/xinche/67403",
+          "commentCount": 0,
+          "likeCount": 60,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67402,
+          "title": "新车抢先看丨上汽大通纯电动概念SUV将于北京车展亮相",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30092/image/201804/1524400634443133.jpg",
+          "summary":
+            "​近日，第一电动网从上汽大通官方获得了一张旗下全新纯电动SUV概念车的预告图，据悉这款全新纯电动SUV概念车将于4月25日开幕的2018北京车展正式亮相，该车将与“智选·智联·智行”理念融合，打造全新的用车理念。",
+          "tags": "上汽大通,2018北京车展",
+          "nickName": "赵迪安",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30092/image/201707/1500001566759854.jpg!w144",
+          "addTime": 1524441900000,
+          "addTimeStr": "2018-04-23 08:05:00",
+          "pcUrl": "/carnews/xinche/67402",
+          "commentCount": 1,
+          "likeCount": 62,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67416,
+          "title": "车展群英荟｜陆皓：北汽新能源ARCFOX品牌为新中产先锋派而来",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30013/image/201804/1524463412466778.jpg",
+          "summary":
+            "北汽新能源旗下高端电动车品牌ARCFOX的第一次正式亮相是在2016年4月的北京车展，经过两年高度保密的工程开发和设计研发，2018年将再次来到北京车展。",
+          "tags": "北汽ARCFOX-7,2018北京车展",
+          "nickName": "杨晓红",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30013/image/201709/1506653329325788.jpg!w144",
+          "addTime": 1524413100000,
+          "addTimeStr": "2018-04-23 00:05:00",
+          "pcUrl": "/news/renwu/67416",
+          "commentCount": 2,
+          "likeCount": 61,
+          "likeBaseNums": 58,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67366,
+          "title":
+            "新车抢先看丨高能效媲美宝马 吉利博瑞GE插电混动版将亮相北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524212694549048.jpg",
+          "summary":
+            "据了解，博瑞GE将在即将揭幕的北京车展上正式亮相，新车将推出混动版和插电式混动版两种车型，定位于中级轿车。",
+          "tags": "​博瑞GE,2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524213000000,
+          "addTimeStr": "2018-04-20 16:30:00",
+          "pcUrl": "/carnews/xinche/67366",
+          "commentCount": 1,
+          "likeCount": 63,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67348,
+          "title": "新车抢先看丨腾势500将亮相2018北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524195682930314.jpg",
+          "summary":
+            "日前，第一电动网从腾势DENZA官方获悉，腾势500纯电动汽车将于4月25日开幕的2018北京国际车展E4馆E408展台正式亮相，新车共有时尚版和荣耀版两款车型，补贴后售价为29.88-32.88万元。",
+          "tags": "2018北京车展,腾势",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524180600000,
+          "addTimeStr": "2018-04-20 07:30:00",
+          "pcUrl": "/carnews/xinche/67348",
+          "commentCount": 0,
+          "likeCount": 13,
+          "likeBaseNums": 10,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67305,
+          "title":
+            "车展群英荟 | 汪光玉：江淮、江淮蔚来、江淮大众三支电动化力量布局已形成",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30071/image/201804/1524143969391909.jpg",
+          "summary":
+            "“到2025年，江淮新能源汽车要占到江淮总产销量的30%以上，形成节能汽车、新能源汽车、智能网联汽车共同发展新格局，这是江淮的战略概要。”汪光玉如是表示。",
+          "tags": "汪光玉,2018北京车展",
+          "nickName": "宋爱菊",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30071/image/201707/1499995533439234.jpg!w144",
+          "addTime": 1524177000000,
+          "addTimeStr": "2018-04-20 06:30:00",
+          "pcUrl": "/news/renwu/67305",
+          "commentCount": 1,
+          "likeCount": 61,
+          "likeBaseNums": 58,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67224,
+          "title":
+            "车展群英荟 | 吴震皓：独立于沃尔沃，Polestar要做电动汽车创新先锋",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30013/image/201804/1524071074776440.jpg",
+          "summary":
+            "Polestar是从沃尔沃集团独立出来的一个新公司，有自己的品牌定位——纯粹、先进、高性能",
+          "tags": "Polestar,吴震皓,2018北京车展",
+          "nickName": "杨晓红",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30013/image/201709/1506653329325788.jpg!w144",
+          "addTime": 1524070560000,
+          "addTimeStr": "2018-04-19 00:56:00",
+          "pcUrl": "/news/renwu/67224",
+          "commentCount": 0,
+          "likeCount": 63,
+          "likeBaseNums": 58,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67216,
+          "title": "新车抢先看丨本田公布2018北京车展阵容，多款电气化车型亮相",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524043980411250.jpg",
+          "summary":
+            "日前，本田汽车公布了其在2018北京车展的展车阵容；除第十代雅阁锐・混动和CR-V锐·混动两款混合动力车型之外，还将发布一款由广汽本田与本田（中国）公司共同研发的电动汽车。",
+          "tags": "2018北京车展",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524043800000,
+          "addTimeStr": "2018-04-18 17:30:00",
+          "pcUrl": "/carnews/xinche/67216",
+          "commentCount": 0,
+          "likeCount": 58,
+          "likeBaseNums": 56,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67213,
+          "title": "19款车型，北京车展首发/上市新能源车汇总",
+          "type": 10,
+          "coverImgUrl": "/d/file/photo/2018/04/1524020502586270.jpg",
+          "summary":
+            "下周北京车展即将开幕，在此次车展上，各厂商将展出各自的新车，其中不乏首发和上市的全新车型，除了燃油版车型外还包括新能源车型，下面，新出行就为大家列举了将要上市或首发的新能源车型。",
+          "tags": "2018北京车展",
+          "headImg": "",
+          "addTime": 1524042300000,
+          "addTimeStr": "2018-04-18 17:05:00",
+          "pcUrl": "/carnews/xinche/67213",
+          "commentCount": 1,
+          "likeCount": 62,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": "新出行"
+        },
+        {
+          "id": 67151,
+          "title":
+            "车展群英荟 | 谷峰：智能电动汽车领域还不是红海，爱驰有信心将未来产品定义做到最好",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30071/image/201804/1523968599788170.jpg",
+          "summary":
+            "对于即将到来的北京车展，爱驰汽车也已做好充分准备，展出车型除U5 ION之外，爱驰还将推出一款代号为“RG”的增程式超跑，其0～100km/h的加速时间仅需2.5秒，最高时速300km/h，最长续航可达1200公里。 ",
+          "tags": "爱驰汽车,谷峰,2018北京车展",
+          "nickName": "宋爱菊",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30071/image/201707/1499995533439234.jpg!w144",
+          "addTime": 1524004200000,
+          "addTimeStr": "2018-04-18 06:30:00",
+          "pcUrl": "/news/renwu/67151",
+          "commentCount": 0,
+          "likeCount": 59,
+          "likeBaseNums": 56,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67093,
+          "title":
+            "新车抢先看丨移动的第三空间，长江首款电动中级轿车将亮相北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1523928908887816.jpg",
+          "summary":
+            "据了解，在即将开幕的2018北京国际汽车展览会上，长江汽车将发布一款纯电动中级轿车。这是长江汽车推出的首款轿车。",
+          "tags": "2018北京车展,长江,纯电动中级轿车",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1523928600000,
+          "addTimeStr": "2018-04-17 09:30:00",
+          "pcUrl": "/carnews/xinche/67093",
+          "commentCount": 1,
+          "likeCount": 71,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67054,
+          "title": "新车抢先看丨云度π7官图发布，北京车展全球首发",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1523881374569895.jpg",
+          "summary":
+            "日前，第一电动网从云度新能源官方获悉，其旗下第3款全新SUV车型——云度π7将于2018北京车展进行全球首发，并会在2019年正式上市。下面让我们一起来看刚刚发布的新车官图。",
+          "tags": "云度π7,2018北京车展",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1523926800000,
+          "addTimeStr": "2018-04-17 09:00:00",
+          "pcUrl": "/carnews/xinche/67054",
+          "commentCount": 4,
+          "likeCount": 54,
+          "likeBaseNums": 46,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67030,
+          "title": "车展群英荟 | 李书福：驾驭变革时代，探索创新路径",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30013/image/201804/1523860858801668.jpg",
+          "summary":
+            "2018北京车展前夕，吉利控股集团董事长李书福在英国《每日电讯报》、德国FAZ通讯社和瑞典《工业日报》发表署名文章",
+          "tags": "吉利,李书福,2018北京车展",
+          "headImg": "",
+          "addTime": 1523921700000,
+          "addTimeStr": "2018-04-17 07:35:00",
+          "pcUrl": "/news/renwu/67030",
+          "commentCount": 0,
+          "likeCount": 45,
+          "likeBaseNums": 42,
+          "categoryId": 7,
+          "source": "吉利控股集团"
+        },
+        {
+          "id": 67010,
+          "title": "新车抢先看丨电咖北京车展将推升级车型 续航增至270km",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1523848376502148.jpg",
+          "summary":
+            "近日，第一电动网获悉，电咖·EV10将于近期推出升级版车型，综合续航里程将提高至270km，新车并将于北京车展首次亮相。",
+          "tags": "2018北京车展",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1523848200000,
+          "addTimeStr": "2018-04-16 11:10:00",
+          "pcUrl": "/carnews/xinche/67010",
+          "commentCount": 1,
+          "likeCount": 56,
+          "likeBaseNums": 46,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 66898,
+          "title":
+            "新车抢先看丨最大续航或为500km，长城全新纯电动品牌欧拉iQ5将亮相北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1523604604169389.jpg",
+          "summary":
+            "长城WEY P8刚刚面世不久，则又有消息曝出，长城将推出主打新能源的全新品牌——欧拉。据了解，该品牌首款新车欧拉iQ5将在即将拉开帷幕的北京车展上亮相，定位紧凑型跨界SUV。",
+          "tags": "2018北京车展,欧拉iQ5,长城新能源",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1523836800000,
+          "addTimeStr": "2018-04-16 08:00:00",
+          "pcUrl": "/carnews/xinche/66898",
+          "commentCount": 3,
+          "likeCount": 66,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 66949,
+          "title":
+            "车展群英荟 | 古惠南：广汽新能源打造创新品牌营销，未来每年推至少两款新车",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30013/image/201804/1523809698846161.jpg",
+          "summary":
+            "依托智联新能源产业园的强大硬件基础及互联网化的创新发展思维，古惠南很有信心，广汽新能源将为消费者带来全新的智能出行生活。",
+          "tags": "广汽新能源,古惠南,2018北京车展",
+          "nickName": "杨晓红",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30013/image/201709/1506653329325788.jpg!w144",
+          "addTime": 1523808240000,
+          "addTimeStr": "2018-04-16 00:04:00",
+          "pcUrl": "/news/renwu/66949",
+          "commentCount": 0,
+          "likeCount": 60,
+          "likeBaseNums": 54,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 66876,
+          "title": "新车抢先看丨北汽新能源EU5+ET400将携手亮相北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1523589704547078.jpg",
+          "summary":
+            "北汽新能源作为国内首家年产销突破十万辆大关的纯电动车企，以出色的销量，奠定了其在新能源市场份额。据了解，北汽新能源将在将开幕的2018北京车展上推出两款新车，分别为北汽新能源EU5和北汽新能源ET400车型。",
+          "tags": "2018北京车展,ET400,EU5",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1523595600000,
+          "addTimeStr": "2018-04-13 13:00:00",
+          "pcUrl": "/carnews/xinche/66876",
+          "commentCount": 21,
+          "likeCount": 76,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 66818,
+          "title": "车展群英荟 | 沈晖：威马在北京车展将展出神秘新车",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30071/image/201804/1523535996817343.jpg",
+          "summary":
+            "这个前两年低调的威马汽车今年亮相时，已经资质+产品+工厂全面加身，并开始向着公司第三步战略的产品运营进行，取而代之的是，今年初迈入50岁的沈晖，头发好似又白了一些。 ",
+          "tags": "沈晖,威马汽车,2018北京车展",
+          "nickName": "宋爱菊",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30071/image/201707/1499995533439234.jpg!w144",
+          "addTime": 1523577600000,
+          "addTimeStr": "2018-04-13 08:00:00",
+          "pcUrl": "/news/renwu/66818",
+          "commentCount": 7,
+          "likeCount": 63,
+          "likeBaseNums": 58,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 66799,
+          "title": "新车抢先看丨北京车展比亚迪4款新车齐上阵",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1523504516373777.jpg",
+          "summary":
+            "2018北京国际车展即将拉开帷幕，作为国内新能源汽车的引领者，比亚迪将有哪些新车与我们见面呢？",
+          "tags": "比亚迪,唐,秦,宋MAX,元EV360,2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1523577600000,
+          "addTimeStr": "2018-04-13 08:00:00",
+          "pcUrl": "/carnews/xinche/66799",
+          "commentCount": 18,
+          "likeCount": 72,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 66781,
+          "title": "车展群英荟 | 李一秀：EU5标志北汽新能源品牌向上的升级转向",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30013/image/201804/1523494323810007.jpg",
+          "summary":
+            "市场竞争激烈，路程坎坷曲折，李一秀把推进产品升级、品牌向上、商业模式创新的这条路定位为新长征之路。",
+          "tags": "李一秀,北汽新能源,2018北京车展",
+          "nickName": "杨晓红",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30013/image/201709/1506653329325788.jpg!w144",
+          "addTime": 1523492700000,
+          "addTimeStr": "2018-04-12 08:25:00",
+          "pcUrl": "/news/renwu/66781",
+          "commentCount": 2,
+          "likeCount": 66,
+          "likeBaseNums": 58,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 66719,
+          "title": "新车抢先看丨WEY P8开启预售 将于北京车展期间正式上市",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1523412924377667.jpg",
+          "summary":
+            "近日，第一电动网从WEY品牌官方获悉，首款插电式混合动力SUV车型，WEY P8已经开启预售，预售时间截止到4月22日，并将在北京车展期间正式上市。",
+          "tags": "WEY P8,P8,2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1523408520000,
+          "addTimeStr": "2018-04-11 09:02:00",
+          "pcUrl": "/carnews/xinche/66719",
+          "commentCount": 0,
+          "likeCount": 53,
+          "likeBaseNums": 48,
+          "categoryId": 14,
+          "source": ""
+        }
+      ]
+    },
+    "recommendNews": {
+      "list": [
+        {
+          "pcUrl": "/news/renwu/67647",
+          "imgPath": "",
+          "title":
+            "车展群英荟 | 何塞·穆诺兹：日产汽车将加速在中国市场引进先进电动汽车技术",
+          "summary":
+            "日产汽车公司首席绩效官、日产中国管理委员会主席何塞·穆诺兹 (José Muñoz)表示，这一切都是基于日产“M.O.V.E to 2022”中期事业计划，“我们希望进一步深入中国市场。” "
+        },
+        {
+          "pcUrl": "/news/renwu/67632",
+          "imgPath": "",
+          "title":
+            "对话日产首席工程师Hidetoshi Kadota：纯电轩逸继承了聆风平台的精髓",
+          "summary":
+            "为了更了解轩逸·纯电，第一电动网与轩逸·纯电首席工程师Hidetoshi Kadota进行了深入探讨。"
+        },
+        {
+          "pcUrl": "/carnews/daogou/67607",
+          "imgPath": "",
+          "title":
+            "新车图解丨静态体验比亚迪元EV360 10万级小型纯电SUV的重磅产品",
+          "summary":
+            "在2018北京车展期间，比亚迪汽车正式带来了比亚迪元EV360车型，该车此前已经开启预售，其补贴后预售价为10万元，官方数据显示其综合工况续航里程可达305km，元EV360将是比亚迪针对小型纯电SUV市场领域的一款重磅车型。"
+        }
+      ]
+    },
+    "person": {
+      "list": [
+        {
+          "id": 67834,
+          "title":
+            "车展群英荟 | 云度新能源刘心文：云度π7契合消费者未来升级需求",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201805/1525307457580447.jpg",
+          "summary":
+            "在2018北京国际车展现场，云度π7全球首发，这也是云度新能源继π1、π3后的第3款全新纯电动SUV。刚刚过去的2017年对于云度来说，是不平凡的一年：从1月通过发改委审批，到6月份拿到工信部企业准入资质，再到10月10日云度首款产品π1上市，整个团队都是拼着命的干。第一电动网带着大家关心的诸多问题，与云度新能源总经理刘心文聊了聊企业发展近况。",
+          "tags": "2018北京车展,云度新能源",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1525307340000,
+          "addTimeStr": "2018-05-03 08:29:00",
+          "pcUrl": "/news/renwu/67834",
+          "commentCount": 1,
+          "likeCount": 54,
+          "likeBaseNums": 48,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67757,
+          "title": "车展群英荟 | 蔚来秦力洪：海有多大、有多深？",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30071/image/201805/1525175268331983.jpg",
+          "summary":
+            "在北京车展蔚来展台的这场对话，让我更加确信，新的时代，需要新的企业和新的企业家。尽管我不能断言蔚来一定能成，但我相信这个群体一定能成。",
+          "tags": "秦力洪,蔚来汽车,2018北京车展",
+          "headImg": "",
+          "addTime": 1525213800000,
+          "addTimeStr": "2018-05-02 06:30:00",
+          "pcUrl": "/news/renwu/67757",
+          "commentCount": 8,
+          "likeCount": 79,
+          "likeBaseNums": 58,
+          "categoryId": 7,
+          "source": "第一电动网"
+        },
+        {
+          "id": 67730,
+          "title": "车展群英荟 | 莊·萨缪尔：欧拉是长城推出的独立纯电动汽车品牌",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524961126889260.jpg",
+          "summary":
+            "4月25日，长城汽车在北京车展上发布了旗下独立纯电动汽车品牌——欧拉。在发布会上共带来了两款车型，分别为欧拉R1和欧拉R2车型。第一电动网等媒体与长城汽车商品企划副总裁莊·萨缪尔和欧拉研发总监乔向华进行了短暂对话，试图了解 长城汽车的新能源战略布局。",
+          "tags": "欧拉,长城纯电动车,2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524960240000,
+          "addTimeStr": "2018-04-29 08:04:00",
+          "pcUrl": "/news/renwu/67730",
+          "commentCount": 0,
+          "likeCount": 62,
+          "likeBaseNums": 58,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67726,
+          "title": "对话谷峰：爱驰汽车瞄准的是电动汽车主流市场",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30092/image/201804/1524916847669601.jpg",
+          "summary":
+            "从上海嘉定技术中心投入使用、上饶基地基建竣工、打造MAS平台，到U5 ION量产版亮相、RG Nathalie高性能跑车全球首秀，爱驰汽车在不到一个月的时间里，漂亮的完成了一系列大动作，以“爱驰速度”展示出智能电动汽车时代破局者的雄心和实力。爱驰汽车的优势在哪里？未来的发展规划是什么？第一电动网在北京车展期间与爱驰汽车联合创始人兼CEO谷峰进行了对话。",
+          "tags": "爱驰汽车,2018北京车展,谷峰",
+          "nickName": "赵迪安",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30092/image/201707/1500001566759854.jpg!w144",
+          "addTime": 1524956400000,
+          "addTimeStr": "2018-04-29 07:00:00",
+          "pcUrl": "/news/renwu/67726",
+          "commentCount": 0,
+          "likeCount": 61,
+          "likeBaseNums": 58,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67632,
+          "title":
+            "对话日产首席工程师Hidetoshi Kadota：纯电轩逸继承了聆风平台的精髓",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30013/image/201804/1524744583664346.jpg",
+          "summary":
+            "为了更了解轩逸·纯电，第一电动网与轩逸·纯电首席工程师Hidetoshi Kadota进行了深入探讨。",
+          "tags": "轩逸·纯电,2018北京车展",
+          "nickName": "杨晓红",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30013/image/201709/1506653329325788.jpg!w144",
+          "addTime": 1524785100000,
+          "addTimeStr": "2018-04-27 07:25:00",
+          "pcUrl": "/news/renwu/67632",
+          "commentCount": 5,
+          "likeCount": 62,
+          "likeBaseNums": 58,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67647,
+          "title":
+            "车展群英荟 | 何塞·穆诺兹：日产汽车将加速在中国市场引进先进电动汽车技术",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30013/image/201804/1524759342290176.jpg",
+          "summary":
+            "日产汽车公司首席绩效官、日产中国管理委员会主席何塞·穆诺兹 (José Muñoz)表示，这一切都是基于日产“M.O.V.E to 2022”中期事业计划，“我们希望进一步深入中国市场。” ",
+          "tags": "日产,2018北京车展,何塞·穆诺兹",
+          "nickName": "杨晓红",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30013/image/201709/1506653329325788.jpg!w144",
+          "addTime": 1524758580000,
+          "addTimeStr": "2018-04-27 00:03:00",
+          "pcUrl": "/news/renwu/67647",
+          "commentCount": 0,
+          "likeCount": 61,
+          "likeBaseNums": 58,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67640,
+          "title":
+            "车展群英荟 | 李伟：长安新能源的第三次创新创业，向“香格里拉计划”进发",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30013/image/201804/1524753221362766.jpg",
+          "summary":
+            " “时代淘汰你 与你无关”，长安新能源在前进的路上，离“香格里拉”越来越近。",
+          "tags": "长安新能源,李伟,2018北京车展",
+          "nickName": "杨晓红",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30013/image/201709/1506653329325788.jpg!w144",
+          "addTime": 1524751620000,
+          "addTimeStr": "2018-04-26 22:07:00",
+          "pcUrl": "/news/renwu/67640",
+          "commentCount": 5,
+          "likeCount": 65,
+          "likeBaseNums": 58,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67637,
+          "title": "对话古惠南：广汽新能源要做面向未来的车",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30372/image/201804/1524750323668506.jpg",
+          "summary":
+            "默默地筹划了半年之后，广汽新能源终于在北京车展上公布了自己最新的品牌口号“更聪明的陪伴”，也将公司愿景定义为“成为世界领先和社会信赖的绿色移动智慧价值创造者”。广汽新能源的战略思考究竟是怎样的？我们在车展现场问了广汽新能源汽车有限公司总经理古惠南先生下面这些问题。",
+          "tags": "广汽新能源,古惠南,2018北京车展",
+          "nickName": "崔志强",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30372/image/201803/1521904674574004.jpg!w144",
+          "addTime": 1524750000000,
+          "addTimeStr": "2018-04-26 21:40:00",
+          "pcUrl": "/news/renwu/67637",
+          "commentCount": 0,
+          "likeCount": 49,
+          "likeBaseNums": 48,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67588,
+          "title": "车展群英荟 | 沈海寅：奇点汽车是能“成长”的智能电动汽车",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30013/image/201804/1524662572321120.jpg",
+          "summary":
+            "已连续三年参加国际A级车展的奇点汽车已经证明自己活下来了，第一电动网带着大家关心的很多问题，与奇点汽车CEO沈海寅聊了聊企业发展近况。",
+          "tags": "奇点汽车,沈海寅,2018北京车展",
+          "nickName": "杨晓红",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30013/image/201709/1506653329325788.jpg!w144",
+          "addTime": 1524698400000,
+          "addTimeStr": "2018-04-26 07:20:00",
+          "pcUrl": "/news/renwu/67588",
+          "commentCount": 1,
+          "likeCount": 64,
+          "likeBaseNums": 58,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67590,
+          "title": "车展群英荟 | 蒋自力：双核战略推动大昌河全面转型",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30013/image/201804/1524663023444228.jpg",
+          "summary":
+            "北汽集团的领导班子坚定的支持大昌河的发展，其中集团化的支持力度很大。",
+          "tags": "昌河,蒋自力,2018北京车展",
+          "nickName": "崔志强",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30372/image/201803/1521904674574004.jpg!w144",
+          "addTime": 1524697200000,
+          "addTimeStr": "2018-04-26 07:00:00",
+          "pcUrl": "/news/renwu/67590",
+          "commentCount": 1,
+          "likeCount": 51,
+          "likeBaseNums": 48,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67559,
+          "title":
+            "车展群英荟 | 周振江：力帆汽车将定位年轻化产品，在智能化、信息化方面做更多尝试",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30018/image/201804/1524633560102147.jpg",
+          "summary":
+            "力帆汽车将自己的目标用户瞄准八零九零后人群，致力于产品的智能化、信息化、年轻化，同时发力B、C两端市场，给了我们足够多的惊喜。",
+          "tags": "2018北京车展,力帆汽车",
+          "nickName": "崔志强",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30372/image/201803/1521904674574004.jpg!w144",
+          "addTime": 1524628560000,
+          "addTimeStr": "2018-04-25 11:56:00",
+          "pcUrl": "/news/renwu/67559",
+          "commentCount": 40,
+          "likeCount": 62,
+          "likeBaseNums": 58,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67528,
+          "title": "车展群英荟｜俞经民：上汽荣威是用心做产品的“新势力”",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30071/image/201804/1524556970403660.jpg",
+          "summary":
+            "大家习惯把一些新兴企业叫做“新势力”，但真正用心做产品、创新能力比较强的企业，才是“新势力”。而上汽荣威正是这样的“新势力”。",
+          "tags": "上汽荣威,2018北京车展",
+          "nickName": "宋爱菊",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30071/image/201707/1499995533439234.jpg!w144",
+          "addTime": 1524609000000,
+          "addTimeStr": "2018-04-25 06:30:00",
+          "pcUrl": "/news/renwu/67528",
+          "commentCount": 1,
+          "likeCount": 49,
+          "likeBaseNums": 48,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67470,
+          "title": "车展群英荟｜戴雷：拜腾是给90后年轻人量身定制的豪华品牌",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30071/image/201804/1524496983979013.jpg",
+          "summary":
+            "“拜腾虽然是个高端豪华品牌，但是一定要达到亲民的价格，这个方向我们会一直保持。” 在拜腾首款可驾驶概念车BYTON Concept中国首映礼上，拜腾总裁兼联合创始人戴雷说道。",
+          "tags": "拜腾,2018北京车展",
+          "nickName": "宋爱菊",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30071/image/201707/1499995533439234.jpg!w144",
+          "addTime": 1524522600000,
+          "addTimeStr": "2018-04-24 06:30:00",
+          "pcUrl": "/news/renwu/67470",
+          "commentCount": 0,
+          "likeCount": 43,
+          "likeBaseNums": 36,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67471,
+          "title":
+            "Christian Senger：大众汽车到2025年将向中国投放10款MEB平台车型",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30013/image/201804/1524499424160621.jpg",
+          "summary":
+            "I.D.VIZZION是一款最个性化、充满情感和独特的大众汽车，真实展现了我们关于大众汽车的未来愿景。我们最迟将于2022年推出I.D.家族中的顶级轿车。",
+          "tags": "I.D.VIZZION,大众汽车,2018北京车展",
+          "nickName": "杨晓红",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30013/image/201709/1506653329325788.jpg!w144",
+          "addTime": 1524498360000,
+          "addTimeStr": "2018-04-23 23:46:00",
+          "pcUrl": "/news/renwu/67471",
+          "commentCount": 0,
+          "likeCount": 45,
+          "likeBaseNums": 44,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67416,
+          "title": "车展群英荟｜陆皓：北汽新能源ARCFOX品牌为新中产先锋派而来",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30013/image/201804/1524463412466778.jpg",
+          "summary":
+            "北汽新能源旗下高端电动车品牌ARCFOX的第一次正式亮相是在2016年4月的北京车展，经过两年高度保密的工程开发和设计研发，2018年将再次来到北京车展。",
+          "tags": "北汽ARCFOX-7,2018北京车展",
+          "nickName": "杨晓红",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30013/image/201709/1506653329325788.jpg!w144",
+          "addTime": 1524413100000,
+          "addTimeStr": "2018-04-23 00:05:00",
+          "pcUrl": "/news/renwu/67416",
+          "commentCount": 2,
+          "likeCount": 61,
+          "likeBaseNums": 58,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67305,
+          "title":
+            "车展群英荟 | 汪光玉：江淮、江淮蔚来、江淮大众三支电动化力量布局已形成",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30071/image/201804/1524143969391909.jpg",
+          "summary":
+            "“到2025年，江淮新能源汽车要占到江淮总产销量的30%以上，形成节能汽车、新能源汽车、智能网联汽车共同发展新格局，这是江淮的战略概要。”汪光玉如是表示。",
+          "tags": "汪光玉,2018北京车展",
+          "nickName": "宋爱菊",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30071/image/201707/1499995533439234.jpg!w144",
+          "addTime": 1524177000000,
+          "addTimeStr": "2018-04-20 06:30:00",
+          "pcUrl": "/news/renwu/67305",
+          "commentCount": 1,
+          "likeCount": 61,
+          "likeBaseNums": 58,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67224,
+          "title":
+            "车展群英荟 | 吴震皓：独立于沃尔沃，Polestar要做电动汽车创新先锋",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30013/image/201804/1524071074776440.jpg",
+          "summary":
+            "Polestar是从沃尔沃集团独立出来的一个新公司，有自己的品牌定位——纯粹、先进、高性能",
+          "tags": "Polestar,吴震皓,2018北京车展",
+          "nickName": "杨晓红",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30013/image/201709/1506653329325788.jpg!w144",
+          "addTime": 1524070560000,
+          "addTimeStr": "2018-04-19 00:56:00",
+          "pcUrl": "/news/renwu/67224",
+          "commentCount": 0,
+          "likeCount": 63,
+          "likeBaseNums": 58,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67151,
+          "title":
+            "车展群英荟 | 谷峰：智能电动汽车领域还不是红海，爱驰有信心将未来产品定义做到最好",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30071/image/201804/1523968599788170.jpg",
+          "summary":
+            "对于即将到来的北京车展，爱驰汽车也已做好充分准备，展出车型除U5 ION之外，爱驰还将推出一款代号为“RG”的增程式超跑，其0～100km/h的加速时间仅需2.5秒，最高时速300km/h，最长续航可达1200公里。 ",
+          "tags": "爱驰汽车,谷峰,2018北京车展",
+          "nickName": "宋爱菊",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30071/image/201707/1499995533439234.jpg!w144",
+          "addTime": 1524004200000,
+          "addTimeStr": "2018-04-18 06:30:00",
+          "pcUrl": "/news/renwu/67151",
+          "commentCount": 0,
+          "likeCount": 59,
+          "likeBaseNums": 56,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 67030,
+          "title": "车展群英荟 | 李书福：驾驭变革时代，探索创新路径",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30013/image/201804/1523860858801668.jpg",
+          "summary":
+            "2018北京车展前夕，吉利控股集团董事长李书福在英国《每日电讯报》、德国FAZ通讯社和瑞典《工业日报》发表署名文章",
+          "tags": "吉利,李书福,2018北京车展",
+          "headImg": "",
+          "addTime": 1523921700000,
+          "addTimeStr": "2018-04-17 07:35:00",
+          "pcUrl": "/news/renwu/67030",
+          "commentCount": 0,
+          "likeCount": 45,
+          "likeBaseNums": 42,
+          "categoryId": 7,
+          "source": "吉利控股集团"
+        },
+        {
+          "id": 66949,
+          "title":
+            "车展群英荟 | 古惠南：广汽新能源打造创新品牌营销，未来每年推至少两款新车",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30013/image/201804/1523809698846161.jpg",
+          "summary":
+            "依托智联新能源产业园的强大硬件基础及互联网化的创新发展思维，古惠南很有信心，广汽新能源将为消费者带来全新的智能出行生活。",
+          "tags": "广汽新能源,古惠南,2018北京车展",
+          "nickName": "杨晓红",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30013/image/201709/1506653329325788.jpg!w144",
+          "addTime": 1523808240000,
+          "addTimeStr": "2018-04-16 00:04:00",
+          "pcUrl": "/news/renwu/66949",
+          "commentCount": 0,
+          "likeCount": 60,
+          "likeBaseNums": 54,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 66818,
+          "title": "车展群英荟 | 沈晖：威马在北京车展将展出神秘新车",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30071/image/201804/1523535996817343.jpg",
+          "summary":
+            "这个前两年低调的威马汽车今年亮相时，已经资质+产品+工厂全面加身，并开始向着公司第三步战略的产品运营进行，取而代之的是，今年初迈入50岁的沈晖，头发好似又白了一些。 ",
+          "tags": "沈晖,威马汽车,2018北京车展",
+          "nickName": "宋爱菊",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30071/image/201707/1499995533439234.jpg!w144",
+          "addTime": 1523577600000,
+          "addTimeStr": "2018-04-13 08:00:00",
+          "pcUrl": "/news/renwu/66818",
+          "commentCount": 7,
+          "likeCount": 63,
+          "likeBaseNums": 58,
+          "categoryId": 7,
+          "source": ""
+        },
+        {
+          "id": 66781,
+          "title": "车展群英荟 | 李一秀：EU5标志北汽新能源品牌向上的升级转向",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30013/image/201804/1523494323810007.jpg",
+          "summary":
+            "市场竞争激烈，路程坎坷曲折，李一秀把推进产品升级、品牌向上、商业模式创新的这条路定位为新长征之路。",
+          "tags": "李一秀,北汽新能源,2018北京车展",
+          "nickName": "杨晓红",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30013/image/201709/1506653329325788.jpg!w144",
+          "addTime": 1523492700000,
+          "addTimeStr": "2018-04-12 08:25:00",
+          "pcUrl": "/news/renwu/66781",
+          "commentCount": 2,
+          "likeCount": 66,
+          "likeBaseNums": 58,
+          "categoryId": 7,
+          "source": ""
+        }
+      ]
+    },
+    "banner": {
+      "list": [
+        {
+          "pcUrl": "/news/renwu/67640",
+          "imgPath":
+            "http://cdn-fs.touchev.com/d/file/custom/30013/image/201804/1524754078428276.jpg!w480",
+          "title":
+            "车展群英荟 | 李伟：长安新能源的第三次创新创业，向“香格里拉计划”进发",
+          "summary":
+            " “时代淘汰你 与你无关”，长安新能源在前进的路上，离“香格里拉”越来越近。"
+        },
+        {
+          "pcUrl": "/carnews/xinche/67612",
+          "imgPath":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201804/1524685373972170.jpg!w480",
+          "title": "新车图解丨东风日产首款纯电动车型 轩逸纯电动版",
+          "summary":
+            "在4月25日开幕的2018北京车展上，东风日产首款纯电动车型，轩逸纯电动版正式亮相。作为东风日产倾力打造的首款纯电动家轿，那么它到底表现如何，让我们一起来看一看吧。"
+        },
+        {
+          "pcUrl": "/news/renwu/67637",
+          "imgPath":
+            "http://cdn-fs.touchev.com/d/file/custom/30018/image/201804/1524804701630281.jpg!w480",
+          "title": "对话古惠南：广汽新能源要做面向未来的车",
+          "summary":
+            "默默地筹划了半年之后，广汽新能源终于在北京车展上公布了自己最新的品牌口号“更聪明的陪伴”，也将公司愿景定义为“成为世界领先和社会信赖的绿色移动智慧价值创造者”。广汽新能源的战略思考究竟是怎样的？我们在车展现场问了广汽新能源汽车有限公司总经理古惠南先生下面这些问题。"
+        },
+        {
+          "pcUrl": "/carnews/xinche/67609",
+          "imgPath":
+            "http://cdn-fs.touchev.com/d/file/custom/30092/image/201804/1524682993774874.jpg!w480",
+          "title": "新车图解丨静态体验拜腾BYTON Concept 未来不远智能已来",
+          "summary":
+            "在4月25日开幕的北京车展上，BYTON拜腾携首款车型BYTON Concept登陆车展，并发布了一些的合作与未来规划，下面就为大家带来这款车的静态体验。"
+        }
+      ]
+    },
+    "technology": {
+      "list": [
+        {
+          "id": 67630,
+          "title":
+            "法雷奥携48伏低压电动解决方案和量产激光扫描仪等创新技术亮相北京车展",
+          "type": 1,
+          "coverImgUrl":
+            "/d/file/custom/30013/image/201804/1524738293491986.jpg",
+          "summary":
+            "法雷奥的电气化解决方案涵盖所有车型和细分领域，本届北京车展上，法雷奥推出了一套极具性价比的低压纯电动解决方案。",
+          "tags": "法雷奥,2018北京车展,48V",
+          "nickName": "杨晓红",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30013/image/201709/1506653329325788.jpg!w144",
+          "addTime": 1524738240000,
+          "addTimeStr": "2018-04-26 18:24:00",
+          "pcUrl": "/news/jishu/67630",
+          "commentCount": 1,
+          "likeCount": 55,
+          "likeBaseNums": 52,
+          "categoryId": 5,
+          "source": ""
+        }
+      ]
+    },
+    "video": {
+      "list": [
+        {
+          "id": 67786,
+          "title": "视频｜新能源市场长城也来分一杯羹",
+          "type": 2,
+          "coverImgUrl":
+            "/d/file/custom/30020/image/201805/1525225962378852.jpeg",
+          "summary":
+            "欧拉iQ5是长城首款纯电动SUV，新车定位紧凑型纯电动SUV，未来上市主要竞争比亚迪宋EV、上汽荣威ERX5、威马EX5等车型新车是一款纯电动汽车，采用孚能科技生产的三元锂离子电池，搭载博格华纳的电动机，最大功率为120kW",
+          "tags": "长城纯电动车,2018北京车展",
+          "nickName": "赵占龙",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30020/image/201708/1503483636571797.png!w144",
+          "addTime": 1525225320000,
+          "pcUrl": "/video/67786",
+          "likeBaseNums": 40,
+          "categoryId": 0,
+          "source": ""
+        },
+        {
+          "id": 67740,
+          "title": "视频|豪华品牌捷豹也找代工？",
+          "type": 2,
+          "coverImgUrl":
+            "/d/file/custom/30020/image/201804/1525049186661641.jpeg",
+          "summary":
+            "捷豹I-PACE在外形上很好地融入了捷豹家族式设计风格，同时又极具未来感，符合其新能源车的定位。低矮的车头造型具有强烈的运动感，隐藏式门把手、车侧底部的装饰条也都显示了它的与众不同。尾部采用了特殊的平台状尾箱盖设计，同样显得别出心裁",
+          "tags": "捷豹l-Pace,2018北京车展",
+          "nickName": "赵占龙",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30020/image/201708/1503483636571797.png!w144",
+          "addTime": 1525048440000,
+          "pcUrl": "/video/67740",
+          "likeBaseNums": 32,
+          "categoryId": 0,
+          "source": ""
+        },
+        {
+          "id": 67728,
+          "title": "视频|北汽新能源首款达尔文系统的人工智能纯电动汽车",
+          "type": 2,
+          "coverImgUrl":
+            "/d/file/custom/30020/image/201804/1524926638297831.jpeg",
+          "summary":
+            "在北京车展现场，北汽新能源发布了诞生于达尔文系统的首款人工智能纯电动汽车——EU5。EU5共有两个版本，EU5 R500工况续航416km，等速续航520公里，补贴后12.99万元起售；EU5 R550工况续航450公里，等速续航570公里，补贴后14.89万元起售。作为北汽新能源最新产品，EU5的看点主要集中在两方面，一是基础的三电方面，二是智能方面。",
+          "tags": "北汽新能源,北汽新能源EU5,北汽新能源EX5,2018北京车展",
+          "nickName": "赵占龙",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30020/image/201708/1503483636571797.png!w144",
+          "addTime": 1524920100000,
+          "pcUrl": "/video/67728",
+          "likeBaseNums": 38,
+          "categoryId": 0,
+          "source": ""
+        },
+        {
+          "id": 67680,
+          "title": "视频｜未来宝马将瓜分中国新能源市场",
+          "type": 2,
+          "coverImgUrl":
+            "/d/file/custom/30020/image/201804/1524838224663656.jpg",
+          "summary":
+            "根据宝马电气化转型战略，计划在2025年之前提供25款车型，iX3只是宝马计划推出25款全新车型的首款纯电动车型。在本届北京国际车展上，宝马旗下全新纯电动概念SUV宝马ix3迎来了全球首秀，这款全新的概念车将在2020年量产并国产化。中国电动化的步伐在全球都处于领先的地位，这也是宝马为什么选择中国来成为其实现未来出行方式的理想之地。",
+          "tags": "宝马ix3,2018北京车展",
+          "nickName": "赵占龙",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30020/image/201708/1503483636571797.png!w144",
+          "addTime": 1524837540000,
+          "pcUrl": "/video/67680",
+          "likeBaseNums": 42,
+          "categoryId": 0,
+          "source": ""
+        },
+        {
+          "id": 67648,
+          "title": "视频｜拜腾只有在中国才能完成造车梦",
+          "type": 2,
+          "coverImgUrl":
+            "/d/file/custom/30020/image/201804/1524760287329351.jpg",
+          "summary":
+            "BYTON拜腾，30万元各种黑科技让你想不到。两种动力配备，200kW后驱单电机与350kW前后双电机组合。前者采用71kwh的电池组续航为400公里，后者采用95kwh的电池组，续航可达520公里。",
+          "tags": "BYTON拜腾,新能源,2018北京车展",
+          "nickName": "赵占龙",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30020/image/201708/1503483636571797.png!w144",
+          "addTime": 1524759900000,
+          "pcUrl": "/video/67648",
+          "likeBaseNums": 36,
+          "categoryId": 0,
+          "source": ""
+        },
+        {
+          "id": 67611,
+          "title": "视频｜大空间遇上高续航江淮iEVA50",
+          "type": 2,
+          "coverImgUrl":
+            "/d/file/custom/30020/image/201804/1524684942684096.jpg",
+          "summary":
+            "江淮iEVA50这款车整体的配置也是非常丰富的，而且也搭载了大量智能化的设备成为了这款车的标配。和同级别车相比在价格方面比较亲民，而且配置方面也是比较丰富的。",
+          "tags": "2018北京车展,江淮电动车,江淮IE VA50",
+          "nickName": "赵占龙",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30020/image/201708/1503483636571797.png!w144",
+          "addTime": 1524684000000,
+          "pcUrl": "/video/67611",
+          "likeBaseNums": 38,
+          "categoryId": 0,
+          "source": ""
+        },
+        {
+          "id": 67610,
+          "title": "视频｜荣威Marvel X剑指特斯拉",
+          "type": 2,
+          "coverImgUrl":
+            "/d/file/custom/30020/image/201804/1524683491801714.jpg",
+          "summary":
+            "荣威Marvel X车身尺寸为长宽高4678/1919/1618mm，荣威Marvel X轴距为2800mm。荣威Marvel X采用非承载车身和适合越野的悬挂系统，荣威Marvel X同时搭载四驱系统，让其能够适应全地形行驶。",
+          "tags": "荣威MARVEL X,2018北京车展",
+          "nickName": "赵占龙",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30020/image/201708/1503483636571797.png!w144",
+          "addTime": 1524683040000,
+          "pcUrl": "/video/67610",
+          "likeBaseNums": 28,
+          "categoryId": 0,
+          "source": ""
+        },
+        {
+          "id": 67606,
+          "title": "视频｜新能源市场“搅局者”北京车展威马EX5当日收获5000订单？",
+          "type": 2,
+          "coverImgUrl":
+            "/d/file/custom/30020/image/201804/1524676294664272.jpg",
+          "summary":
+            "这个纯电续航里程最高可达到600+公里的车型，以“出乎意料”的价格，给了新能源汽车市场一记重拳。这不仅开创了新能源汽车与燃油车售价竞争的先河，甚至将重置新能源汽车市场“定价规则”。",
+          "tags": "威马EX5,2018北京车展",
+          "nickName": "赵占龙",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30020/image/201708/1503483636571797.png!w144",
+          "addTime": 1524674760000,
+          "pcUrl": "/video/67606",
+          "likeBaseNums": 46,
+          "categoryId": 0,
+          "source": ""
+        },
+        {
+          "id": 67605,
+          "title": "视频｜北京车展比亚迪4款新能源亮相 最低不到10万起售",
+          "type": 2,
+          "coverImgUrl":
+            "/d/file/custom/30020/image/201804/1524673934210471.jpg",
+          "summary":
+            "北京车展比亚迪持续加码新能源市场携新款唐、秦pro、宋max、元EV360、4款新车参展。颜值炸裂、配置爆表，不到10万起售",
+          "tags": "比亚迪唐,比亚迪“秦”,宋MAX,元EV360,2018北京车展",
+          "nickName": "赵占龙",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30020/image/201708/1503483636571797.png!w144",
+          "addTime": 1524672120000,
+          "pcUrl": "/video/67605",
+          "likeBaseNums": 58,
+          "categoryId": 0,
+          "source": ""
+        },
+        {
+          "id": 67307,
+          "title":
+            "视频丨未来战士开WEY来战车对抗人工智能！4月25日上演如何英雄救美？",
+          "type": 2,
+          "coverImgUrl":
+            "/d/file/custom/30092/image/201804/1524193565210591.jpg",
+          "summary":
+            "在未来，人工智能很有可能挑战人的社会地位，一旦人工智能失控将会引发社会动荡，这部精彩预告片讲述的就是未来战士开着一辆WEY来战车去对抗人工智能机器人的故事，在4月25日北京车展上WEY将揭晓WEY来战车上演如何英雄救美？",
+          "tags": "WEY,2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524145860000,
+          "pcUrl": "/video/67307",
+          "likeBaseNums": 58,
+          "categoryId": 0,
+          "source": ""
+        }
+      ]
+    },
+    "newCar": {
+      "list": [
+        {
+          "id": 67753,
+          "title": "不限号、不限行、续航无压力的插电混动才是北京车展重点？",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201805/1525181313224821.jpg",
+          "summary":
+            "上一篇我们盘点了本届北京车展上的重点纯电和部分概念车型，这次我们直入主题，盘点本届北京车展上的重点插电式混动车型，毕竟在不限号、不限行、续航无压力以及享受国家优惠政策方面不光只有纯电车型，插电混动也是不可或缺的一份子，今天就给大家数数都有哪些。",
+          "tags": "2018北京车展,插电混动",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1525217400000,
+          "addTimeStr": "2018-05-02 07:30:00",
+          "pcUrl": "/carnews/daogou/67753",
+          "commentCount": 6,
+          "likeCount": 63,
+          "likeBaseNums": 58,
+          "categoryId": 16,
+          "source": ""
+        },
+        {
+          "id": 67674,
+          "title": "北京车展12款重磅纯电动汽车来袭！不得不看！",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524840509783641.jpg",
+          "summary":
+            "在两年前的北京车展上，新能源汽车的比例还只占很小一部分，也并不被大家所重点关注。而在今年的北京车展上，有媒体统计参加车展的新能源车型数量已达到174台，这意味着新能源汽车所占比例越来越高、地位也越来越高，新能源汽车已然成为了各个品牌的主角。",
+          "tags": "2018北京车展,盘点",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524873000000,
+          "addTimeStr": "2018-04-28 07:50:00",
+          "pcUrl": "/carnews/daogou/67674",
+          "commentCount": 4,
+          "likeCount": 75,
+          "likeBaseNums": 58,
+          "categoryId": 16,
+          "source": ""
+        },
+        {
+          "id": 67634,
+          "title": "青春就来电，众泰新能源北京车展阵容报告",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524747890113086.png",
+          "summary":
+            "4月25日，第15届北京车展正式开幕，位于中国国际展览中心新馆W2馆208展台的众泰汽车在首日赚足眼球。众泰汽车本次参展主题为“道法自然 智美天成”，展台设计上采用中国传统文化和现代智能科技元素相融合，搭配上全新设计的logo，完美诠释了众泰汽车传承工匠精神，打造智能、精美好车的信心与决心。",
+          "tags": "2018北京车展,众泰",
+          "headImg": "",
+          "addTime": 1524745620000,
+          "addTimeStr": "2018-04-26 20:27:00",
+          "pcUrl": "/carnews/xinche/67634",
+          "commentCount": 2,
+          "likeCount": 60,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": "第一电动网"
+        },
+        {
+          "id": 67612,
+          "title": "新车图解丨东风日产首款纯电动车型 轩逸纯电动版",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524685309745668.jpg",
+          "summary":
+            "在4月25日开幕的2018北京车展上，东风日产首款纯电动车型，轩逸纯电动版正式亮相。作为东风日产倾力打造的首款纯电动家轿，那么它到底表现如何，让我们一起来看一看吧。",
+          "tags": "2018北京车展,轩逸纯电动版",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524682980000,
+          "addTimeStr": "2018-04-26 03:03:00",
+          "pcUrl": "/carnews/xinche/67612",
+          "commentCount": 4,
+          "likeCount": 66,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67609,
+          "title": "新车图解丨静态体验拜腾BYTON Concept 未来不远智能已来",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30092/image/201804/1524682987688102.jpg",
+          "summary":
+            "在4月25日开幕的北京车展上，BYTON拜腾携首款车型BYTON Concept登陆车展，并发布了一些的合作与未来规划，下面就为大家带来这款车的静态体验。",
+          "tags": "拜腾BYTON Concept,2018北京车展",
+          "nickName": "赵迪安",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30092/image/201707/1500001566759854.jpg!w144",
+          "addTime": 1524682200000,
+          "addTimeStr": "2018-04-26 02:50:00",
+          "pcUrl": "/carnews/xinche/67609",
+          "commentCount": 2,
+          "likeCount": 71,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67608,
+          "title": "新车图解丨静态体验全新比亚迪唐DM 高颜值插电混动SUV来袭",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524680786410617.jpg",
+          "summary":
+            "在4月25日开幕的2018北京车展上，全新比亚迪唐DM车型正式亮相，并公布了新车预售价，其补贴后预售价格区间为25-30万元。该车是唐燃油版的插电式混动版车型，搭载一台2.0T发动机和电动机组合，外观与内饰方面与燃油版相比几乎没有不同之处，下面就让我们一起来看看这款高颜值新车吧。",
+          "tags": "2018北京车展,比亚迪",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524680340000,
+          "addTimeStr": "2018-04-26 02:19:00",
+          "pcUrl": "/carnews/daogou/67608",
+          "commentCount": 12,
+          "likeCount": 56,
+          "likeBaseNums": 48,
+          "categoryId": 16,
+          "source": ""
+        },
+        {
+          "id": 67607,
+          "title":
+            "新车图解丨静态体验比亚迪元EV360 10万级小型纯电SUV的重磅产品",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524676883138278.jpg",
+          "summary":
+            "在2018北京车展期间，比亚迪汽车正式带来了比亚迪元EV360车型，该车此前已经开启预售，其补贴后预售价为10万元，官方数据显示其综合工况续航里程可达305km，元EV360将是比亚迪针对小型纯电SUV市场领域的一款重磅车型。",
+          "tags": "2018北京车展,比亚迪",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524676380000,
+          "addTimeStr": "2018-04-26 01:13:00",
+          "pcUrl": "/carnews/daogou/67607",
+          "commentCount": 23,
+          "likeCount": 67,
+          "likeBaseNums": 58,
+          "categoryId": 16,
+          "source": ""
+        },
+        {
+          "id": 67601,
+          "title": "新车图解丨静态体验北汽新能源EU5 首款续航超500km的纯电轿车",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524673379749104.jpg",
+          "summary":
+            "北汽新能源EU系列车型可谓是纯电动车型中的一名“老将”了，从EU260到EU400，都是受广大消费者喜爱的车型。而在本次北京车展上，北汽新能源带来了EU系列的最新换代升级产品——EU5。新车共推4款车型，两种续航里程，补贴后售12.99-16.19万元，下面就让我们来看看它在外观、内饰以及动力方面有何亮点。",
+          "tags": "2018北京车展,北汽新能源",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524672780000,
+          "addTimeStr": "2018-04-26 00:13:00",
+          "pcUrl": "/carnews/daogou/67601",
+          "commentCount": 1,
+          "likeCount": 69,
+          "likeBaseNums": 58,
+          "categoryId": 16,
+          "source": ""
+        },
+        {
+          "id": 67603,
+          "title": "智能互联汽车BYTON Concept亮相2018北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30092/image/201804/1524673656867763.jpg",
+          "summary":
+            "4月25日，BYTON拜腾携首款车型BYTON Concept登陆2018北京车展，这也许是本届车展最接近量产的智能互联汽车了。BYTON拜腾将诠释一个电动化、互联化、自动驾驶及共享出行的未来，BYTON Concept于4月25号至5月4日在中国国际展览中心新馆W3馆08展台展出。",
+          "tags": "拜腾BYTON Concept,2018北京车展",
+          "nickName": "赵迪安",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30092/image/201707/1500001566759854.jpg!w144",
+          "addTime": 1524671940000,
+          "addTimeStr": "2018-04-25 23:59:00",
+          "pcUrl": "/carnews/xinche/67603",
+          "commentCount": 0,
+          "likeCount": 60,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67604,
+          "title": "全新高端品牌Polestar 亮相北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524674445588138.jpg",
+          "summary":
+            "4月25日在北京车展全新高性能电动车品牌Polestar亮相，同时旗下首款Polestar 1也在发布会亮相，该车定位于一款高性能插电混动版轿跑车型，并公布售价为145万元。",
+          "tags": "Polestar 1,2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524670740000,
+          "addTimeStr": "2018-04-25 23:39:00",
+          "pcUrl": "/carnews/xinche/67604",
+          "commentCount": 0,
+          "likeCount": 53,
+          "likeBaseNums": 50,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67600,
+          "title": "电动车也需要“驾趣” 前途汽车携三大平台车型亮相2018北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30092/image/201804/1524671619609094.jpg",
+          "summary":
+            "4月25日，前途汽车携三大平台车型前途K50、前途K20 Concept和前途Concept 1亮相2018北京国际车展。新车依旧保持前途一贯的前瞻性设计、开放的智能互联平台、轻量化的材料和模块化的电驱动技术融合进造车技术。",
+          "tags": "前途汽车,2018北京车展",
+          "nickName": "赵迪安",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30092/image/201707/1500001566759854.jpg!w144",
+          "addTime": 1524669540000,
+          "addTimeStr": "2018-04-25 23:19:00",
+          "pcUrl": "/carnews/xinche/67600",
+          "commentCount": 1,
+          "likeCount": 63,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67598,
+          "title": "汉腾纯电动轿车亮相北京车展并发布“蓝E计划”",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30092/image/201804/1524669312526936.jpg",
+          "summary":
+            "4月25日，在本届北京车展上，汉腾汽车携旗下纯电动轿车及汉腾MPV亮相，同时参展的还有汉腾X5、汉腾X7S、汉腾X5EV、汉腾X7PHEV等车型。同时，汉腾汽车正式发布全新新能源战略——“蓝E计划”，启动同京东汽车商城的战略合作。",
+          "tags": "汉腾,2018北京车展",
+          "nickName": "赵迪安",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30092/image/201707/1500001566759854.jpg!w144",
+          "addTime": 1524668400000,
+          "addTimeStr": "2018-04-25 23:00:00",
+          "pcUrl": "/carnews/xinche/67598",
+          "commentCount": 0,
+          "likeCount": 63,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67599,
+          "title": "正道集团携三款车型 于北京车展亮相",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524670174675168.jpg",
+          "summary":
+            "4月25日在北京车展正道集团携三款车型——全球首发的豪华轿车H500和豪华SUV K350，以及中国首发的正道超跑HK GT，亮相车展现场。凭借“清洁高效的发电机增程器和石墨烯超级电池黄金动力组合”这一核心技术，正道集团提出绿色出行的“新汽车生活出行方案”，完美的诠释了正道集团对未来清洁能源汽车发展的前瞻性布局。",
+          "tags": "正道,2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524668040000,
+          "addTimeStr": "2018-04-25 22:54:00",
+          "pcUrl": "/carnews/xinche/67599",
+          "commentCount": 1,
+          "likeCount": 39,
+          "likeBaseNums": 36,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67596,
+          "title":
+            "宝马推进电动化战略 BMW iX3概念车等多款新能源车型亮相北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30092/image/201804/1524667962650268.jpg",
+          "summary":
+            "4月25日，在本届北京车展上，，宝马集团共展示了7款电动车型，其中，最引人注目的全新BMW iX3概念车迎来全球首发。当天，科鲁格先生还宣布，全新BMW iX3概念车的后续量产车型将于2020年在中国投入量产。",
+          "tags": "宝马集团,宝马iX3,2018北京车展",
+          "nickName": "赵迪安",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30092/image/201707/1500001566759854.jpg!w144",
+          "addTime": 1524664320000,
+          "addTimeStr": "2018-04-25 21:52:00",
+          "pcUrl": "/carnews/xinche/67596",
+          "commentCount": 0,
+          "likeCount": 63,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67594,
+          "title": "铸造“心安之源” 腾势500亮相北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524666048764218.jpg",
+          "summary":
+            "4月25日在北京车展腾势新能源汽车有限公司携纯电动汽车腾势500，于E4展馆正式亮相。腾势500是依托戴姆勒的百年造车工艺和比亚迪领先的三电技术打造的高端纯电动汽车。在发布会上，腾势渠道拓展计划首次对外公布。同时，围绕高品质产品和消费者，腾势构建了以产研模式、体验模式、服务模式、渠道模式为核心的腾势“心安之源”。",
+          "tags": "腾势新能源汽车,2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524664140000,
+          "addTimeStr": "2018-04-25 21:49:00",
+          "pcUrl": "/carnews/xinche/67594",
+          "commentCount": 0,
+          "likeCount": 46,
+          "likeBaseNums": 42,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67593,
+          "title": "比亚迪宋MAX插电混动版亮相 纯电续航80km",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524663134245068.jpg",
+          "summary":
+            " 本届北京车展上，比亚迪宋MAX插电混动版车型正式亮相，该车的混动系统由1.5T+电动机组成。",
+          "tags": "2018北京车展,比亚迪",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524663000000,
+          "addTimeStr": "2018-04-25 21:30:00",
+          "pcUrl": "/carnews/xinche/67593",
+          "commentCount": 18,
+          "likeCount": 66,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67589,
+          "title": "奇瑞控股捷途全新概念车JETOUR X亮相　",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524662333559612.jpg",
+          "summary":
+            "在2018北京车展上，奇瑞控股捷途首款概念车JETOUR X第二次亮相，因为该车在车展前夕已进行过首发亮相。JETOUR X体现出了捷途产品的智能化、新能源化、互联化、轻量化的发展方向。",
+          "tags": "2018北京车展,JETOUR X概念车",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524661980000,
+          "addTimeStr": "2018-04-25 21:13:00",
+          "pcUrl": "/carnews/xinche/67589",
+          "commentCount": 0,
+          "likeCount": 36,
+          "likeBaseNums": 34,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67591,
+          "title": "聚焦未来都市共享出行 雷诺EZ-GO在北京车展亚洲首秀",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30092/image/201804/1524662782848184.jpg",
+          "summary":
+            "4月25日，在2018北京国际汽车展览会雷诺暨东风雷诺新闻发布会上，雷诺集团最新概念车雷诺EZ-GO正式亚洲首秀，以全新的理念前瞻未来都市共享出行的美好愿景和“东风雷诺2022愿景”的技术方向。",
+          "tags": "雷诺,雷诺EZ-GO,2018北京车展",
+          "nickName": "赵迪安",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30092/image/201707/1500001566759854.jpg!w144",
+          "addTime": 1524661800000,
+          "addTimeStr": "2018-04-25 21:10:00",
+          "pcUrl": "/carnews/xinche/67591",
+          "commentCount": 1,
+          "likeCount": 63,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67592,
+          "title": "开启绿色发展新征程 福田新能源汽车亮相北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524663512775086.png",
+          "summary":
+            "4月25日在北京车展福田汽车发布亮相了奥铃EV、欧辉氢燃料电池客车、BROCK和图雅诺EV共4款新能源产品。这不仅体现了福田汽车聚焦用户价值、促进物流行业降本增效所作的不懈努力，同时也强调了企业助力行业绿色高效发展的决心和信念。",
+          "tags": "福田新能源,2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524660840000,
+          "addTimeStr": "2018-04-25 20:54:00",
+          "pcUrl": "/carnews/xinche/67592",
+          "commentCount": 0,
+          "likeCount": 63,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67583,
+          "title": "电咖·EV10升级版亮相 续航提升至270km",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524660054916495.jpg",
+          "summary":
+            "在2018北京车展上，电咖汽车推出了EV10的升级版车型，新车综合续航里程提高至270km，比现款车型的综合续航里程提升了115km，其他方面与现款车型基本保持一致。",
+          "tags": "2018北京车展,电咖",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524659520000,
+          "addTimeStr": "2018-04-25 20:32:00",
+          "pcUrl": "/carnews/xinche/67583",
+          "commentCount": 0,
+          "likeCount": 28,
+          "likeBaseNums": 24,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67584,
+          "title": "纯电动乘用车品牌欧拉 在北京车展正式发布",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524659897442509.jpg",
+          "summary":
+            "随着社会经济的不断发展，消费者对于车辆的要求已经不仅仅是出行代步的工具，而是开始朝着更智能、更娱乐的多元化方向发展，如今在环保需求与国家政策的多重作用下，还要求车辆具备环保性，于是电动汽车应运而生。就在每逢双年举办的北京车展中，长城汽车发布了旗下独立纯电动汽车品牌——欧拉。",
+          "tags": "2018北京车展,长城欧拉",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524658860000,
+          "addTimeStr": "2018-04-25 20:21:00",
+          "pcUrl": "/carnews/xinche/67584",
+          "commentCount": 0,
+          "likeCount": 25,
+          "likeBaseNums": 20,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67580,
+          "title": "全面进入造车新时代 比亚迪汽车强势出击北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524659052900572.jpg",
+          "summary":
+            "4月25日，比亚迪汽车强势登陆第十五届北京车展。比亚迪董事长王传福先生、销售公司总经理赵长江先生以及设计总监艾格先生等高层领导均出席了本次车展。作为新能源领域的引领者，比亚迪在本次车展上不负众望，展现出非凡实力。",
+          "tags": "2018北京车展,比亚迪",
+          "headImg": "",
+          "addTime": 1524658620000,
+          "addTimeStr": "2018-04-25 20:17:00",
+          "pcUrl": "/carnews/xinche/67580",
+          "commentCount": 0,
+          "likeCount": 32,
+          "likeBaseNums": 24,
+          "categoryId": 14,
+          "source": "第一电动网"
+        },
+        {
+          "id": 67577,
+          "title": "比亚迪秦Pro正式发布 插电混动轿车又一新力作",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524652578367230.jpg",
+          "summary":
+            "4月25日，第十五届北京国际车展正式开幕。在这个全球车企大秀看家车型的至高舞台，比亚迪“王朝”新成员全新中级车——秦Pro全球首发亮相。据悉，该车预计2019年上市，届时将与秦联袂覆盖中级车、紧凑型车市场进行同堂销售，补贴后售价或20万元起。",
+          "tags": "2018北京车展,比亚迪",
+          "headImg": "",
+          "addTime": 1524652260000,
+          "addTimeStr": "2018-04-25 18:31:00",
+          "pcUrl": "/carnews/xinche/67577",
+          "commentCount": 1,
+          "likeCount": 36,
+          "likeBaseNums": 32,
+          "categoryId": 14,
+          "source": "第一电动网"
+        },
+        {
+          "id": 67576,
+          "title": "爱驰RG高性能跑车发布 最大续航1200km/百公里加速2.5s",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524651999706412.jpg",
+          "summary":
+            "在2018北京车展上，爱驰汽车首款高端跑车RG进行了首秀。该车定位为一款纯电动跑车，拥有炫酷、动感的外观设计，百公里加速时间仅需2.5s，理论最大续航里程可达1200km，最高时速可达300km/h，优异的性能得益于氢燃料电池的辅助。",
+          "tags": "2018北京车展,爱驰汽车",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524650820000,
+          "addTimeStr": "2018-04-25 18:07:00",
+          "pcUrl": "/carnews/xinche/67576",
+          "commentCount": 2,
+          "likeCount": 33,
+          "likeBaseNums": 24,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67575,
+          "title": "爱驰U5 ION概念车正式亮相 预计2019年上市",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524649267611535.jpg",
+          "summary":
+            "爱驰汽车旗下首款纯电动SUV——U5 ION概念车定位于一款中型SUV，并基于爱驰汽车自行开发的MAS平台进行打造，未来将搭载L2级别自动驾驶技术，预计2019年正式上市，NEDC续航里程为460km。",
+          "tags": "2018北京车展,爱驰汽车",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524648900000,
+          "addTimeStr": "2018-04-25 17:35:00",
+          "pcUrl": "/carnews/xinche/67575",
+          "commentCount": 0,
+          "likeCount": 24,
+          "likeBaseNums": 22,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67574,
+          "title": "北汽新能源EU5正式上市 补贴后12.99万起售",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524648637718069.jpg",
+          "summary":
+            "在4月25日开幕的2018北京车展上，北汽新能源EU5正式上市，新车共推出4款车型，补贴后售价区间为12.99-16.19万元。新车可看做是现款EU400的升级版本，拥有R500与R550两个版本，续航里程分别为416-520km与450-570km，该车成为北汽新能源旗下续航最长的车型。",
+          "tags": "2018北京车展,北汽新能源",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524648060000,
+          "addTimeStr": "2018-04-25 17:21:00",
+          "pcUrl": "/carnews/xinche/67574",
+          "commentCount": 3,
+          "likeCount": 49,
+          "likeBaseNums": 42,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67572,
+          "title": "力帆汽车再添“新”将，新能源车型650EV亮相北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30018/image/201804/1524644165664373.png",
+          "summary":
+            "2018北京参展，力帆汽车也带来了一款纯电动新能源轿车——力帆650EV。",
+          "tags": "2018北京车展,力帆",
+          "headImg": "",
+          "addTime": 1524643440000,
+          "addTimeStr": "2018-04-25 16:04:00",
+          "pcUrl": "/carnews/xinche/67572",
+          "commentCount": 39,
+          "likeCount": 17,
+          "likeBaseNums": 14,
+          "categoryId": 14,
+          "source": "第一电动网"
+        },
+        {
+          "id": 67571,
+          "title": "云度π7北京车展首发 最大续航超550km",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524646301165355.jpg",
+          "summary":
+            "4月25日，在2018年北京车展上，云度新能源正式发布了旗下的第三款SUV车型——云度π7。",
+          "tags": "2018北京车展,云度",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524641760000,
+          "addTimeStr": "2018-04-25 15:36:00",
+          "pcUrl": "/carnews/xinche/67571",
+          "commentCount": 1,
+          "likeCount": 77,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67569,
+          "title": "本田旗下“理念EV Concept”首次亮相",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524647859502452.jpg",
+          "summary":
+            "在2018北京车展上，本田汽车发布了理念（EVERUS）品牌全新形象片，展现出更年轻、时尚、个性的焕新品牌形象。与此同时，纯电动概念车“理念EV Concept”首次亮相。",
+          "tags": "2018北京车展,本田",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524640680000,
+          "addTimeStr": "2018-04-25 15:18:00",
+          "pcUrl": "/carnews/xinche/67569",
+          "commentCount": 0,
+          "likeCount": 42,
+          "likeBaseNums": 38,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67566,
+          "title": "全新一代唐公布预售价，插电混动车型补贴后最低25万起",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30018/image/201804/1524639137155280.jpg",
+          "summary":
+            "4月25日，比亚迪携多款车型亮相北京车展，并公布了全新一代唐的两种动力车型的预售价格。",
+          "tags": "2018北京车展,比亚迪",
+          "nickName": "崔志强",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30372/image/201803/1521904674574004.jpg!w144",
+          "addTime": 1524638760000,
+          "addTimeStr": "2018-04-25 14:46:00",
+          "pcUrl": "/carnews/xinche/67566",
+          "commentCount": 0,
+          "likeCount": 59,
+          "likeBaseNums": 54,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67565,
+          "title": "3款纯电乘用车6款纯电商用车，长江汽车“乘商并举”亮相北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30018/image/201804/1524638657141723.jpg",
+          "summary":
+            "4月25日，长江汽车携旗下3款纯电动乘用车和6款纯电动商用车全新亮相。",
+          "tags": "长江汽车,2018北京车展",
+          "nickName": "宋爱菊",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30071/image/201707/1499995533439234.jpg!w144",
+          "addTime": 1524637620000,
+          "addTimeStr": "2018-04-25 14:27:00",
+          "pcUrl": "/carnews/xinche/67565",
+          "commentCount": 0,
+          "likeCount": 44,
+          "likeBaseNums": 38,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67564,
+          "title": "名爵X-motion Concept北京车展全球首秀，今年将量产",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30018/image/201804/1524637281890419.jpg",
+          "summary":
+            "4月25日，作为全球主流SUV中第一款采用“纯形面设计+光影肩线设计”的车型——MG X-motion Concept概念车在名爵展台首次公开亮相。",
+          "tags": "2018北京车展,MG X-motion Concept",
+          "nickName": "宋爱菊",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30071/image/201707/1499995533439234.jpg!w144",
+          "addTime": 1524636900000,
+          "addTimeStr": "2018-04-25 14:15:00",
+          "pcUrl": "/carnews/xinche/67564",
+          "commentCount": 1,
+          "likeCount": 23,
+          "likeBaseNums": 20,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67561,
+          "title": "威马第二款车型EX6 Concept首亮相，EX5收获5143台实时订单",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30018/image/201804/1524635611741291.png",
+          "summary":
+            "造车新势力威马汽车首度登陆北京国际车展，携首款全车交互纯电SUV威马EX5，以及威马EX6 Concept、威马EX5 Pro(Designed by Isdera)、Isdera Commendatore GT三款全球首发车型亮相。",
+          "tags": "2018北京车展,威马汽车",
+          "nickName": "宋爱菊",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30071/image/201707/1499995533439234.jpg!w144",
+          "addTime": 1524635220000,
+          "addTimeStr": "2018-04-25 13:47:00",
+          "pcUrl": "/carnews/xinche/67561",
+          "commentCount": 5,
+          "likeCount": 73,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67560,
+          "title": "日产未来5年在华投放20款电动车型，纯电动轩逸下半年上市",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30018/image/201804/1524635148310947.jpg",
+          "summary":
+            "4月25日，日产汽车携首款专为中国消费者量身定制、面向中国市场的全新电动车型及其他两款电动汽车亮相北京车展。未来五年，日产汽车将向中国市场投放20款电动化车型，覆盖日产、启辰、英菲尼迪和东风品牌。",
+          "tags": "日产,2018北京车展",
+          "nickName": "杨晓红",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30013/image/201709/1506653329325788.jpg!w144",
+          "addTime": 1524634980000,
+          "addTimeStr": "2018-04-25 13:43:00",
+          "pcUrl": "/carnews/xinche/67560",
+          "commentCount": 0,
+          "likeCount": 34,
+          "likeBaseNums": 32,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67558,
+          "title": "上汽大通仿生智联纯电SUV概念车TARANTULA亮相北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30018/image/201804/1524632528356286.png",
+          "summary":
+            "4月25日，第十五届北京国际汽车展览会上，上汽大通在其展位举行了以“智选·智联·智行”为主题的发布会。",
+          "tags": "上汽大通,2018北京车展",
+          "nickName": " 王宁",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35816/image/201803/1521622530573835.jpg!w144",
+          "addTime": 1524631800000,
+          "addTimeStr": "2018-04-25 12:50:00",
+          "pcUrl": "/carnews/xinche/67558",
+          "commentCount": 0,
+          "likeCount": 21,
+          "likeBaseNums": 18,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67586,
+          "title": "重视新能源发展 WEY品牌携家族多款首发车型亮相北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30092/image/201804/1524661173252526.jpg",
+          "summary":
+            "4月25日，WEY品牌携旗下新能源和多款全新燃油车型等家族全系阵容登陆北京车展。在车展上，WEY品牌以“引领WEY来”为主题，揭幕7款车型联袂的全新产品矩阵：WEY-X、P8、WEYRS7、VV6、VV5四驱版、VV7和VV5，其中更有多款新能源车型。",
+          "tags": "2018北京车展,WEY-X,WEY P8",
+          "nickName": "赵迪安",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30092/image/201707/1500001566759854.jpg!w144",
+          "addTime": 1524629400000,
+          "addTimeStr": "2018-04-25 12:10:00",
+          "pcUrl": "/carnews/xinche/67586",
+          "commentCount": 0,
+          "likeCount": 47,
+          "likeBaseNums": 44,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67557,
+          "title": "奇点汽车战略签约北汽新能源，发布新车型iM8",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30018/image/201804/1524630967356243.jpg",
+          "summary":
+            "4月25日，奇点汽车在2018北京国际车展上正式披露了奇点iS6的量产上市信息，并宣布将与北汽新能源在智能汽车技术开发、充换电设施建设、经销网络、制造资源共享等方面展开全面战略合作。",
+          "tags": "奇点汽车,2018北京车展",
+          "nickName": "杨晓红",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30013/image/201709/1506653329325788.jpg!w144",
+          "addTime": 1524628740000,
+          "addTimeStr": "2018-04-25 11:59:00",
+          "pcUrl": "/carnews/xinche/67557",
+          "commentCount": 0,
+          "likeCount": 69,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67556,
+          "title": "最高续航500km江淮iEVA50北京车展上市，补贴后售价12.25万元起",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30018/image/201804/1524626854902450.jpg",
+          "summary":
+            "4月25日，江淮旗下首款续航里程突破500km的紧凑型纯电动轿车——江淮iEVA50在北京车展正式上市。",
+          "tags": "2018北京车展,江淮iEVA50",
+          "nickName": "赵迪安",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30092/image/201707/1500001566759854.jpg!w144",
+          "addTime": 1524624960000,
+          "addTimeStr": "2018-04-25 10:56:00",
+          "pcUrl": "/carnews/xinche/67556",
+          "commentCount": 2,
+          "likeCount": 67,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67555,
+          "title": "大众汽车I.D. VIZZION自动驾驶概念车亚洲首发",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30018/image/201804/1524624620302477.jpg",
+          "summary":
+            " 4月25日，大众汽车品牌未来I.D.家族全新旗舰车型I.D. VIZZION在北京国际车展亚洲首发。从2020年起，大众汽车品牌将在两到三年内于中国推出约10款I.D.家族车型。",
+          "tags": "2018北京车展,大众汽车",
+          "nickName": "杨晓红",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30013/image/201709/1506653329325788.jpg!w144",
+          "addTime": 1524623940000,
+          "addTimeStr": "2018-04-25 10:39:00",
+          "pcUrl": "/carnews/xinche/67555",
+          "commentCount": 0,
+          "likeCount": 52,
+          "likeBaseNums": 46,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67554,
+          "title": "最大续航500公里，荣威MARVEL X北京车展首秀",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30018/image/201804/1524623361850594.jpg",
+          "summary":
+            "4月25日，在第十五届北京国际车展上，电动智能超跑SUV荣威MARVEL X、纯电动互联网休旅车荣威Ei5、纯电动互联网SUV荣威ERX5、全球首款量产互联网汽车荣威RX5等车型亮相",
+          "tags": "2018北京车展,荣威MARVEL X",
+          "nickName": "宋爱菊",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30071/image/201707/1499995533439234.jpg!w144",
+          "addTime": 1524623280000,
+          "addTimeStr": "2018-04-25 10:28:00",
+          "pcUrl": "/carnews/xinche/67554",
+          "commentCount": 0,
+          "likeCount": 45,
+          "likeBaseNums": 38,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67539,
+          "title": "北京车展探馆 |中型纯电动SUV 威马EX6概念车亮相",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524561936522116.jpg",
+          "summary":
+            "第一电动网编辑在北京车展现场拍摄到威马EX6实车。该车是一款中型纯电动SUV，定位略高于现已上市的车型EX5，据了解，该车将于2019年上市。",
+          "tags": "2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524561540000,
+          "addTimeStr": "2018-04-24 17:19:00",
+          "pcUrl": "/carnews/xinche/67539",
+          "commentCount": 4,
+          "likeCount": 49,
+          "likeBaseNums": 42,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67538,
+          "title": "北京车展探馆 |正道三款全新车型实拍",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524561357878708.jpg",
+          "summary":
+            "第一电动网编辑在北京车展现场拍摄到正道三款全新车型实车。正道豪华轿车H500及正道豪华SUV K350全球首发，正道超跑HK GT也会闪耀亮相，这是HK GT首次在国内展出。",
+          "tags": "2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524560700000,
+          "addTimeStr": "2018-04-24 17:05:00",
+          "pcUrl": "/carnews/xinche/67538",
+          "commentCount": 0,
+          "likeCount": 57,
+          "likeBaseNums": 54,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67535,
+          "title": "北京车展探馆 |续航里程达300km 东南DX3 EV实拍",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524560413101650.jpg",
+          "summary":
+            "第一电动网编辑在北京车展现场拍摄到东南DX3 EV实车。第一电动网编辑在北京车展现场拍摄到东南DX3 EV实车。在外观设计方面，新车与现款燃油版车型基本保持一致，只是在细节方面进行了调整。",
+          "tags": "2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524559560000,
+          "addTimeStr": "2018-04-24 16:46:00",
+          "pcUrl": "/carnews/xinche/67535",
+          "commentCount": 0,
+          "likeCount": 61,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67533,
+          "title": "北京车展探馆 |东风日产全新纯电动车 或为日产轩逸EV300",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524559445413967.jpg",
+          "summary":
+            "第一电动网编辑在北京车展现场拍摄到东风日产的全新纯电动车实车，或为东风日产轩逸EV300。",
+          "tags": "2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524558660000,
+          "addTimeStr": "2018-04-24 16:31:00",
+          "pcUrl": "/carnews/xinche/67533",
+          "commentCount": 2,
+          "likeCount": 41,
+          "likeBaseNums": 38,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67532,
+          "title": "北京车展探馆 |高性价比纯电动SUV 比亚迪元EV360实拍",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524558495150665.jpg",
+          "summary":
+            "第一电动网编辑在北京车展现场拍摄到比亚迪元EV360实车。据了解，比亚迪元EV360综合工况续航里程为305km，新车将于二季度上市。",
+          "tags": "2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524558120000,
+          "addTimeStr": "2018-04-24 16:22:00",
+          "pcUrl": "/carnews/xinche/67532",
+          "commentCount": 4,
+          "likeCount": 64,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67531,
+          "title": "北京车展探馆 |上汽大通纯电动SUV概念车实拍",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524557961130651.jpg",
+          "summary":
+            "第一电动网编辑在北京车展现场拍摄到上汽大通纯电动SUV概念车实车。该车将与“智选·智联·智行”理念融合，打造全新的用车理念。",
+          "tags": "2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524557340000,
+          "addTimeStr": "2018-04-24 16:09:00",
+          "pcUrl": "/carnews/xinche/67531",
+          "commentCount": 0,
+          "likeCount": 60,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67527,
+          "title": "北京车展探馆 |摩拜共享版+私人定制版，新特DEV 1实拍",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524556957890944.jpg",
+          "summary":
+            "第一电动网编辑在北京车展现场拍摄到新特DEV1实车。DEV 1车型是新特与一汽合作生产的首款A0级纯电动汽车。一个面向私人用户销售，另一个是为摩拜深度定制生产的共享版。据了解，新车今年9月开始批量交付，售价区间在10万元以下。",
+          "tags": "2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524556260000,
+          "addTimeStr": "2018-04-24 15:51:00",
+          "pcUrl": "/carnews/xinche/67527",
+          "commentCount": 0,
+          "likeCount": 62,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67518,
+          "title": "北京车展探馆 |全新高端品牌Polestar首款车型 Polestar 1实拍",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524554079581370.jpg",
+          "summary":
+            "第一电动网编辑在北京车展现场拍摄到全新高端品牌Polestar的Polestar 1车型实车。据了解，该车定位为一款高性能轿跑车型，将搭载一套插电式混合动力系统。",
+          "tags": "2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524553620000,
+          "addTimeStr": "2018-04-24 15:07:00",
+          "pcUrl": "/carnews/xinche/67518",
+          "commentCount": 0,
+          "likeCount": 61,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67516,
+          "title": "北京车展探馆 |汉腾X5 EV实拍",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524553389711627.jpg",
+          "summary":
+            "第一电动网编辑在北京车展现场拍摄到汉腾X5 EV实车，新车基于现款汉腾X5传统动力版车型打造。",
+          "tags": "2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524552840000,
+          "addTimeStr": "2018-04-24 14:54:00",
+          "pcUrl": "/carnews/xinche/67516",
+          "commentCount": 0,
+          "likeCount": 60,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67515,
+          "title": "北京车展探馆 |破百仅需4秒 荣威MARVEL X实拍",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524552625508818.jpg",
+          "summary":
+            "第一电动网编辑在北京车展现场拍摄到荣威MARVEL X实车。据了解，新车将会在6月份启动预售，9月份交付用户。",
+          "tags": "2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524552000000,
+          "addTimeStr": "2018-04-24 14:40:00",
+          "pcUrl": "/carnews/xinche/67515",
+          "commentCount": 2,
+          "likeCount": 63,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67511,
+          "title": "北京车展探馆 |比亚迪宋MAX插电混动版实拍",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524551799149455.jpg",
+          "summary":
+            "第一电动网编辑在北京车展现场拍摄到宋MAX插电混动版车型实车。据了解，该车将于今年第二季度内正式上市。",
+          "tags": "2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524551280000,
+          "addTimeStr": "2018-04-24 14:28:00",
+          "pcUrl": "/carnews/xinche/67511",
+          "commentCount": 1,
+          "likeCount": 66,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67509,
+          "title": "北京车展探馆 |续航可达400公里 北汽新能源EX5实拍",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524550997550859.jpg",
+          "summary":
+            "第一电动网编辑在北京车展现场拍摄到北汽新能源ET400实车。据了解，北汽新能源ET400定位为紧凑型SUV，并将于北京车展期间正式上市。",
+          "tags": "2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524550620000,
+          "addTimeStr": "2018-04-24 14:17:00",
+          "pcUrl": "/carnews/xinche/67509",
+          "commentCount": 3,
+          "likeCount": 61,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67506,
+          "title": "北京车展探馆 |续航可达520km 北汽新能源EU5实拍",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524550522281048.jpg",
+          "summary":
+            "第一电动网编辑在北京车展现场拍摄到北汽新能源EU5实车。北汽新能源EU5基于全新绅宝D50打造，重点突出人工智能技术，最高等速续航可达520km。",
+          "tags": "2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524550200000,
+          "addTimeStr": "2018-04-24 14:10:00",
+          "pcUrl": "/carnews/xinche/67506",
+          "commentCount": 1,
+          "likeCount": 64,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67503,
+          "title": "北京车展探馆 |百公里加速仅4.6S 前途K50实拍",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524549982700488.jpg",
+          "summary":
+            "第一电动网编辑在北京车展现场拍摄到前途汽车首款纯电动跑车K50实车。据悉，该车12月底开始上生产线试生产，2018年3月份第二次试生产、5月份第三次试生产。正式开始生产目前计划在2018年6月份。​",
+          "tags": "2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524549540000,
+          "addTimeStr": "2018-04-24 13:59:00",
+          "pcUrl": "/carnews/xinche/67503",
+          "commentCount": 1,
+          "likeCount": 62,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67502,
+          "title": "北京车展探馆 |百公里加速仅需5.1秒 特斯拉Model 3实拍",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524549221514782.jpg",
+          "summary":
+            "第一电动网编辑在北京车展现场拍摄到特斯拉Model 3实车。新车是特斯拉旗下的入门车型，速度破百最快仅需5.1秒，续航最长可达500公里左右。",
+          "tags": "特斯拉Model 3,2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524548700000,
+          "addTimeStr": "2018-04-24 13:45:00",
+          "pcUrl": "/carnews/xinche/67502",
+          "commentCount": 1,
+          "likeCount": 65,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67451,
+          "title": "新车抢先看丨续航超400km 长安第二代逸动EV将在北京车展亮相",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524467761610874.jpg",
+          "summary":
+            "据悉，第二代逸动EV将会在即将拉开帷幕的北京车展亮相。据了解，第二代逸动EV是首款采用家族化设计语言的纯电动汽车，也是长安首款续航超400km的纯电动轿车，百公里耗电仅为14.2度。",
+          "tags": "2018北京车展,长安第二代逸动EV",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524528000000,
+          "addTimeStr": "2018-04-24 08:00:00",
+          "pcUrl": "/carnews/xinche/67451",
+          "commentCount": 2,
+          "likeCount": 50,
+          "likeBaseNums": 48,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67468,
+          "title":
+            "新车抢先看丨大众I.D. VIZZION概念车国内亮相 最大续航700km/L5自动驾驶",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524531220892168.jpg",
+          "summary":
+            "在2018北京车展开幕前夕，大众I.D. Vizzion旗舰概念车在国内首次亮相，该车曾在2018年日内瓦车展首度亮相，一经亮相便赢得了全世界的关注，I.D. Vizzion的量产版将会在2022年率先在中国上市。",
+          "tags": "2018北京车展,大众",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524493440000,
+          "addTimeStr": "2018-04-23 22:24:00",
+          "pcUrl": "/carnews/xinche/67468",
+          "commentCount": 1,
+          "likeCount": 34,
+          "likeBaseNums": 28,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67465,
+          "title": "新车抢先看丨捷途JETOUR X概念车发布，iPeL平台打造",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524492884932154.jpg",
+          "summary":
+            "在2018年北京车展开幕前，奇瑞控股旗下捷途品牌首款JETOUR X概念车正式亮相，据悉，新车新车基于捷途iPeL平台打造，由捷途北美研发中心负责造型设计，并搭载了全新的智能驾驶解决方案。",
+          "tags": "2018北京车展,JETOUR X概念车",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524492240000,
+          "addTimeStr": "2018-04-23 22:04:00",
+          "pcUrl": "/carnews/xinche/67465",
+          "commentCount": 1,
+          "likeCount": 34,
+          "likeBaseNums": 30,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67463,
+          "title": " 新车抢先看丨综合工况续航400km 江淮iEVA50将于北京车展上市",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30092/image/201804/1524488130937170.jpg",
+          "summary":
+            "日前，第一电动网从江淮新能源官方获悉，江淮新能源iEVA50将于北京车展正式上市，新车定位于紧凑级轿车，并提供多种续航里程的车型供消费者选择，其中家用长程版车型综合工况续航里程达400km，最大续航里程突破500km。该车将搭载三元锂和磷酸铁锂两种电池包并采用液冷电池包技术。",
+          "tags": "江淮iEVA50,2018北京车展",
+          "nickName": "赵迪安",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30092/image/201707/1500001566759854.jpg!w144",
+          "addTime": 1524486540000,
+          "addTimeStr": "2018-04-23 20:29:00",
+          "pcUrl": "/carnews/xinche/67463",
+          "commentCount": 2,
+          "likeCount": 64,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67452,
+          "title": "智能“新物种”是什么概念？看荣威MARVEL X全球首秀",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30092/image/201804/1524468569994124.jpg",
+          "summary":
+            "当汽车遇上人工智能会碰撞出什么火花？消费升级又将如何改写造车方向？得益于上汽集团“新四化”的前瞻布局，荣威品牌以“新四化”为方向，坚持对未来汽车“新物种”形态和未来智能出行生态进行探索，将明日科技带入日常生活。",
+          "tags": "荣威MARVEL X,2018北京车展",
+          "headImg": "",
+          "addTime": 1524467100000,
+          "addTimeStr": "2018-04-23 15:05:00",
+          "pcUrl": "/carnews/xinche/67452",
+          "commentCount": 0,
+          "likeCount": 61,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": "第一电动网"
+        },
+        {
+          "id": 67432,
+          "title": "新车抢先看丨捷豹首款纯电动车型I-PACE北京车展亮相",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30092/image/201804/1524445345591544.jpg",
+          "summary":
+            "近日，第一电动网从捷豹汽车官方获悉，捷豹I-PACE将于4月23日国内首发，并公布其在华的官方指导价格，并将于北京车展亮相。该车是捷豹最新的纯电动SUV车型，此前捷豹I-PACE已经在3月6日（日内瓦时间）开幕的2018日内瓦车展上正式亮相。",
+          "tags": "捷豹I-PACE,2018北京车展",
+          "nickName": "赵迪安",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30092/image/201707/1500001566759854.jpg!w144",
+          "addTime": 1524449100000,
+          "addTimeStr": "2018-04-23 10:05:00",
+          "pcUrl": "/carnews/xinche/67432",
+          "commentCount": 0,
+          "likeCount": 64,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67405,
+          "title": "新车抢先看丨汉腾首款纯电动轿车首度亮相北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30092/image/201804/1524401889676927.jpeg",
+          "summary":
+            "日前，第一电动网从汉腾汽车官方获悉，汉腾首款纯电动轿车将首度亮相北京车展，该车是汉腾汽车针对新能源市场，秉承精致、时尚、动感、科技、智能、人性化的造车理念，精心打造的纯电动“国民”轿车，定位于A00级别。此外有消息称，其综合续航里程或将超过255km。",
+          "tags": "汉腾,2018北京车展",
+          "nickName": "赵迪安",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30092/image/201707/1500001566759854.jpg!w144",
+          "addTime": 1524445200000,
+          "addTimeStr": "2018-04-23 09:00:00",
+          "pcUrl": "/carnews/xinche/67405",
+          "commentCount": 0,
+          "likeCount": 59,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67415,
+          "title": "新车抢先看丨正道汽车2018北京车展阵容曝光 H500/K350首发亮相",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524406092986297.jpg",
+          "summary":
+            "日前，正道汽车公布了其在2018北京车展的展车阵容；正道汽车将带来三款首发新车，其中除了正道GT概念车的国内首秀外，全新轿车H500和全新SUV K350车型也将迎来全球首发。",
+          "tags": "2018北京车展,正道汽车",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524443400000,
+          "addTimeStr": "2018-04-23 08:30:00",
+          "pcUrl": "/carnews/xinche/67415",
+          "commentCount": 0,
+          "likeCount": 61,
+          "likeBaseNums": 56,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67403,
+          "title": "新车抢先看丨雷诺EZ-GO概念车于北京车展亚洲首秀",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30092/image/201804/1524401245773742.jpg",
+          "summary":
+            "近日，第一电动网从雷诺官方获悉，雷诺EZ-GO纯电动概念车将于北京车展完成亚洲首秀。在早先的2018日内瓦车展上，雷诺发布了EZ-GO纯电动概念车，新车采用全透明设计，车内巨大座舱采用了类似家庭客厅的设计理念。",
+          "tags": "雷诺,2018北京车展",
+          "nickName": "赵迪安",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30092/image/201707/1500001566759854.jpg!w144",
+          "addTime": 1524442800000,
+          "addTimeStr": "2018-04-23 08:20:00",
+          "pcUrl": "/carnews/xinche/67403",
+          "commentCount": 0,
+          "likeCount": 60,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67402,
+          "title": "新车抢先看丨上汽大通纯电动概念SUV将于北京车展亮相",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/30092/image/201804/1524400634443133.jpg",
+          "summary":
+            "​近日，第一电动网从上汽大通官方获得了一张旗下全新纯电动SUV概念车的预告图，据悉这款全新纯电动SUV概念车将于4月25日开幕的2018北京车展正式亮相，该车将与“智选·智联·智行”理念融合，打造全新的用车理念。",
+          "tags": "上汽大通,2018北京车展",
+          "nickName": "赵迪安",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/30092/image/201707/1500001566759854.jpg!w144",
+          "addTime": 1524441900000,
+          "addTimeStr": "2018-04-23 08:05:00",
+          "pcUrl": "/carnews/xinche/67402",
+          "commentCount": 1,
+          "likeCount": 62,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67366,
+          "title":
+            "新车抢先看丨高能效媲美宝马 吉利博瑞GE插电混动版将亮相北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1524212694549048.jpg",
+          "summary":
+            "据了解，博瑞GE将在即将揭幕的北京车展上正式亮相，新车将推出混动版和插电式混动版两种车型，定位于中级轿车。",
+          "tags": "​博瑞GE,2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1524213000000,
+          "addTimeStr": "2018-04-20 16:30:00",
+          "pcUrl": "/carnews/xinche/67366",
+          "commentCount": 1,
+          "likeCount": 63,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67348,
+          "title": "新车抢先看丨腾势500将亮相2018北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524195682930314.jpg",
+          "summary":
+            "日前，第一电动网从腾势DENZA官方获悉，腾势500纯电动汽车将于4月25日开幕的2018北京国际车展E4馆E408展台正式亮相，新车共有时尚版和荣耀版两款车型，补贴后售价为29.88-32.88万元。",
+          "tags": "2018北京车展,腾势",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524180600000,
+          "addTimeStr": "2018-04-20 07:30:00",
+          "pcUrl": "/carnews/xinche/67348",
+          "commentCount": 0,
+          "likeCount": 13,
+          "likeBaseNums": 10,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67216,
+          "title": "新车抢先看丨本田公布2018北京车展阵容，多款电气化车型亮相",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1524043980411250.jpg",
+          "summary":
+            "日前，本田汽车公布了其在2018北京车展的展车阵容；除第十代雅阁锐・混动和CR-V锐·混动两款混合动力车型之外，还将发布一款由广汽本田与本田（中国）公司共同研发的电动汽车。",
+          "tags": "2018北京车展",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1524043800000,
+          "addTimeStr": "2018-04-18 17:30:00",
+          "pcUrl": "/carnews/xinche/67216",
+          "commentCount": 0,
+          "likeCount": 58,
+          "likeBaseNums": 56,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67213,
+          "title": "19款车型，北京车展首发/上市新能源车汇总",
+          "type": 10,
+          "coverImgUrl": "/d/file/photo/2018/04/1524020502586270.jpg",
+          "summary":
+            "下周北京车展即将开幕，在此次车展上，各厂商将展出各自的新车，其中不乏首发和上市的全新车型，除了燃油版车型外还包括新能源车型，下面，新出行就为大家列举了将要上市或首发的新能源车型。",
+          "tags": "2018北京车展",
+          "headImg": "",
+          "addTime": 1524042300000,
+          "addTimeStr": "2018-04-18 17:05:00",
+          "pcUrl": "/carnews/xinche/67213",
+          "commentCount": 1,
+          "likeCount": 62,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": "新出行"
+        },
+        {
+          "id": 67093,
+          "title":
+            "新车抢先看丨移动的第三空间，长江首款电动中级轿车将亮相北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1523928908887816.jpg",
+          "summary":
+            "据了解，在即将开幕的2018北京国际汽车展览会上，长江汽车将发布一款纯电动中级轿车。这是长江汽车推出的首款轿车。",
+          "tags": "2018北京车展,长江,纯电动中级轿车",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1523928600000,
+          "addTimeStr": "2018-04-17 09:30:00",
+          "pcUrl": "/carnews/xinche/67093",
+          "commentCount": 1,
+          "likeCount": 71,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67054,
+          "title": "新车抢先看丨云度π7官图发布，北京车展全球首发",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1523881374569895.jpg",
+          "summary":
+            "日前，第一电动网从云度新能源官方获悉，其旗下第3款全新SUV车型——云度π7将于2018北京车展进行全球首发，并会在2019年正式上市。下面让我们一起来看刚刚发布的新车官图。",
+          "tags": "云度π7,2018北京车展",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1523926800000,
+          "addTimeStr": "2018-04-17 09:00:00",
+          "pcUrl": "/carnews/xinche/67054",
+          "commentCount": 4,
+          "likeCount": 54,
+          "likeBaseNums": 46,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 67010,
+          "title": "新车抢先看丨电咖北京车展将推升级车型 续航增至270km",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/31757/image/201804/1523848376502148.jpg",
+          "summary":
+            "近日，第一电动网获悉，电咖·EV10将于近期推出升级版车型，综合续航里程将提高至270km，新车并将于北京车展首次亮相。",
+          "tags": "2018北京车展",
+          "nickName": "雷润雨",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/31757/image/201710/1507862248482651.jpg!w144",
+          "addTime": 1523848200000,
+          "addTimeStr": "2018-04-16 11:10:00",
+          "pcUrl": "/carnews/xinche/67010",
+          "commentCount": 1,
+          "likeCount": 56,
+          "likeBaseNums": 46,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 66898,
+          "title":
+            "新车抢先看丨最大续航或为500km，长城全新纯电动品牌欧拉iQ5将亮相北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1523604604169389.jpg",
+          "summary":
+            "长城WEY P8刚刚面世不久，则又有消息曝出，长城将推出主打新能源的全新品牌——欧拉。据了解，该品牌首款新车欧拉iQ5将在即将拉开帷幕的北京车展上亮相，定位紧凑型跨界SUV。",
+          "tags": "2018北京车展,欧拉iQ5,长城新能源",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1523836800000,
+          "addTimeStr": "2018-04-16 08:00:00",
+          "pcUrl": "/carnews/xinche/66898",
+          "commentCount": 3,
+          "likeCount": 66,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 66876,
+          "title": "新车抢先看丨北汽新能源EU5+ET400将携手亮相北京车展",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1523589704547078.jpg",
+          "summary":
+            "北汽新能源作为国内首家年产销突破十万辆大关的纯电动车企，以出色的销量，奠定了其在新能源市场份额。据了解，北汽新能源将在将开幕的2018北京车展上推出两款新车，分别为北汽新能源EU5和北汽新能源ET400车型。",
+          "tags": "2018北京车展,ET400,EU5",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1523595600000,
+          "addTimeStr": "2018-04-13 13:00:00",
+          "pcUrl": "/carnews/xinche/66876",
+          "commentCount": 21,
+          "likeCount": 76,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 66799,
+          "title": "新车抢先看丨北京车展比亚迪4款新车齐上阵",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1523504516373777.jpg",
+          "summary":
+            "2018北京国际车展即将拉开帷幕，作为国内新能源汽车的引领者，比亚迪将有哪些新车与我们见面呢？",
+          "tags": "比亚迪,唐,秦,宋MAX,元EV360,2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1523577600000,
+          "addTimeStr": "2018-04-13 08:00:00",
+          "pcUrl": "/carnews/xinche/66799",
+          "commentCount": 18,
+          "likeCount": 72,
+          "likeBaseNums": 58,
+          "categoryId": 14,
+          "source": ""
+        },
+        {
+          "id": 66719,
+          "title": "新车抢先看丨WEY P8开启预售 将于北京车展期间正式上市",
+          "type": 10,
+          "coverImgUrl":
+            "/d/file/custom/35817/image/201804/1523412924377667.jpg",
+          "summary":
+            "近日，第一电动网从WEY品牌官方获悉，首款插电式混合动力SUV车型，WEY P8已经开启预售，预售时间截止到4月22日，并将在北京车展期间正式上市。",
+          "tags": "WEY P8,P8,2018北京车展",
+          "nickName": " 白光耀",
+          "headImg":
+            "http://cdn-fs.touchev.com/d/file/custom/35817/image/201803/1521615149908944.jpg!w144",
+          "addTime": 1523408520000,
+          "addTimeStr": "2018-04-11 09:02:00",
+          "pcUrl": "/carnews/xinche/66719",
+          "commentCount": 0,
+          "likeCount": 53,
+          "likeBaseNums": 48,
+          "categoryId": 14,
+          "source": ""
+        }
+      ]
+    }
+  }
+}
