@@ -150,7 +150,7 @@
                 <div>
                     <p>合作伙伴:</p>
                     <ul class="parter_list clearfix">
-                        <li v-for="(e,i) in parter.list1" :key="i">
+                        <li v-for="(e,i) in parter.list2" :key="i">
                             <div class="img--wrapper">
                                 <img :src="e.coverImgUrl">
                             </div>
@@ -160,7 +160,7 @@
                 <div>
                     <p>合作媒体:</p>
                     <ul class="parter_list clearfix">
-                        <li v-for="(e,i) in parter.list2" :key="i">
+                        <li v-for="(e,i) in parter.list1" :key="i">
                             <div class="img--wrapper">
                                 <img :src="e.coverImgUrl">
                             </div>
